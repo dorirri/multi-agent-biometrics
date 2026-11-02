@@ -1,0 +1,60 @@
+{
+  "A": {
+    "rows": [
+      "live",
+      "spoof"
+    ],
+    "columns": [
+      "live",
+      "spoof",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        36,
+        0,
+        4
+      ],
+      [
+        0,
+        18,
+        2
+      ]
+    ],
+    "n": 60
+  },
+  "B": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        7,
+        0,
+        0,
+        13
+      ],
+      [
+        0,
+        17,
+        0,
+        3
+      ],
+      [
+        3,
+        0,
+        3,
+        14
+      ]
+    ],
+    "n": 60
+  }
+}

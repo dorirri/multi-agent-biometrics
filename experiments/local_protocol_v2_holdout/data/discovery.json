@@ -1,0 +1,22 @@
+{
+  "dataset": "AxonData/face-anti-spoofing-dataset",
+  "revision": "89d658fffa10ee93cc3010e53741d435fbadd3f6",
+  "license": "CC-BY-NC-4.0 declared in card; public sample for noncommercial research",
+  "card_sha256": "660c8fe799c5cedf9c8171c663fa8074baed47aa3319766734b6440adb303536",
+  "excluded_old_hash_matches": [
+    "Replay_display_attacks/Real/1.jpg",
+    "Replay_display_attacks/Real/2.jpg",
+    "Replay_display_attacks/Real/3.jpg",
+    "Replay_display_attacks/Real/4.jpg",
+    "Replay_display_attacks/Real/5.jpg",
+    "Replay_display_attacks/Screen/20240823_194131.mp4",
+    "Replay_display_attacks/Screen/20240823_194241.mp4",
+    "Replay_display_attacks/Screen/IMG_5915.MOV",
+    "Replay_display_attacks/Screen/IMG_5987.MOV",
+    "Replay_display_attacks/Screen/VID_20240823_171603.mp4"
+  ],
+  "selection_rule": "first four lexicographic unused Selfies; first lexicographic video in predeclared 3D paper, cutout, latex, silicone categories; no PAD or LLM outputs used",
+  "selected_bytes": 179977398,
+  "selection_utc": "2026-11-02T08:36:53Z",
+  "no_subject_independence_claim": true
+}

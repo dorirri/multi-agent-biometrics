@@ -1,0 +1,68 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "predicted_class": {
+      "enum": [
+        "bona_fide",
+        "presentation_attack",
+        "injection_attack",
+        "manual_review"
+      ],
+      "title": "Predicted Class",
+      "type": "string"
+    },
+    "recommendation": {
+      "enum": [
+        "allow",
+        "reject",
+        "escalate"
+      ],
+      "title": "Recommendation",
+      "type": "string"
+    },
+    "evidence_ids": {
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "title": "Evidence Ids",
+      "type": "array"
+    },
+    "contradictions": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Contradictions",
+      "type": "array"
+    },
+    "missing_data": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Missing Data",
+      "type": "array"
+    },
+    "rationale": {
+      "maxLength": 2000,
+      "minLength": 1,
+      "title": "Rationale",
+      "type": "string"
+    },
+    "request_check": {
+      "const": "none",
+      "default": "none",
+      "title": "Request Check",
+      "type": "string"
+    }
+  },
+  "required": [
+    "predicted_class",
+    "recommendation",
+    "evidence_ids",
+    "contradictions",
+    "missing_data",
+    "rationale"
+  ],
+  "title": "FinalDecision",
+  "type": "object"
+}

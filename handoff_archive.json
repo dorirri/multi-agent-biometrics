@@ -1,0 +1,15 @@
+{
+  "path": "research_triage_handoff.zip",
+  "bytes": 1247545,
+  "sha256": "040c298d8a7ea5ad646ce53ba5ff87d6e62cdb4e021ae77d152e90deaee55810",
+  "files": 178,
+  "excluded": [
+    ".runtime",
+    ".venv",
+    ".env and other secrets",
+    "downloads",
+    "models",
+    "data/media",
+    "raw images and video"
+  ]
+}

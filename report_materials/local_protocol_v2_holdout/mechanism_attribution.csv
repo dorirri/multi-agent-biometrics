@@ -1,0 +1,5 @@
+﻿method,n,predicted_injection_count,true_injection_n,correct_injection,injection_rejected_as_presentation,injection_allowed,injection_review
+B,18,0,6,0,0,1,5
+C,18,0,6,0,2,4,0
+D,18,0,6,0,3,3,0
+E,18,0,6,0,3,3,0

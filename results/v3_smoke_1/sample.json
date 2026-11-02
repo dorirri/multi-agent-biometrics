@@ -1,0 +1,16 @@
+{
+  "n": 1,
+  "incident_ids": [
+    "3f5a0f297f9d9802b993c304343d8bc6"
+  ],
+  "counts": {
+    "presentation_attack": 1
+  },
+  "subtypes": {
+    "print": 1
+  },
+  "stress": {
+    "untrusted_text": 1
+  },
+  "unique_frames": 1
+}

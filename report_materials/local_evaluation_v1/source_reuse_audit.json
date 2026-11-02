@@ -1,0 +1,19 @@
+{
+  "n_incidents": 18,
+  "unique_sources": 8,
+  "media_kind_counts": {
+    "image": 5,
+    "video": 3
+  },
+  "incidents_per_source": {
+    "a01": 4,
+    "a09": 2,
+    "a08": 2,
+    "a00": 3,
+    "a04": 2,
+    "a02": 2,
+    "a03": 1,
+    "a06": 2
+  },
+  "no_independence_claim": true
+}

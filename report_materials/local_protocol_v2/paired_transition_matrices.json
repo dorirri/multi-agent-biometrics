@@ -1,0 +1,107 @@
+{
+  "C": {
+    "states": [
+      "review",
+      "correct_auto",
+      "unsafe_allow",
+      "other_wrong_auto"
+    ],
+    "counts": [
+      [
+        0,
+        3,
+        0,
+        3
+      ],
+      [
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        4,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "n": 18
+  },
+  "D": {
+    "states": [
+      "review",
+      "correct_auto",
+      "unsafe_allow",
+      "other_wrong_auto"
+    ],
+    "counts": [
+      [
+        0,
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 18
+  },
+  "E": {
+    "states": [
+      "review",
+      "correct_auto",
+      "unsafe_allow",
+      "other_wrong_auto"
+    ],
+    "counts": [
+      [
+        0,
+        9,
+        5,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 18
+  }
+}

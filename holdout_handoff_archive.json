@@ -1,0 +1,15 @@
+{
+  "path": "research_triage_holdout_handoff.zip",
+  "bytes": 4406540,
+  "sha256": "2e9f89d89852836d9ea99b80a73b79d54cb73ad2450b5308b4d61c992443e983",
+  "files": 324,
+  "includes_saved_results_without_models": true,
+  "fully_autonomous": false,
+  "external_downloads_for_full_compute": [
+    "public media approximately 180 MB",
+    "Qwen GGUF approximately 1.12 GB",
+    "PAD weights/detector",
+    "llama.cpp runtime/Python dependencies"
+  ],
+  "weights_runtime_faces_secrets_excluded": true
+}

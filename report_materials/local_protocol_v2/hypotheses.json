@@ -1,0 +1,38 @@
+{
+  "exploratory": true,
+  "completed": true,
+  "unsafe_allow_increased_methods": [
+    "E"
+  ],
+  "per_method_safety_changes": [
+    {
+      "method": "C",
+      "matched_n": 18,
+      "new_unsafe_allow": 0,
+      "eliminated_unsafe_allow": 3,
+      "coordination_review_to_unsafe_allow": 0,
+      "v1_unsafe_allow": 7,
+      "v2_unsafe_allow": 4
+    },
+    {
+      "method": "D",
+      "matched_n": 18,
+      "new_unsafe_allow": 0,
+      "eliminated_unsafe_allow": 0,
+      "coordination_review_to_unsafe_allow": 0,
+      "v1_unsafe_allow": 0,
+      "v2_unsafe_allow": 0
+    },
+    {
+      "method": "E",
+      "matched_n": 18,
+      "new_unsafe_allow": 5,
+      "eliminated_unsafe_allow": 1,
+      "coordination_review_to_unsafe_allow": 5,
+      "v1_unsafe_allow": 1,
+      "v2_unsafe_allow": 5
+    }
+  ],
+  "no_significance_claim": true,
+  "not_new_independent_observations": true
+}

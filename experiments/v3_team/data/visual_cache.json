@@ -1,0 +1,2773 @@
+{
+  "o000": {
+    "frame_sha256": "bbc4fad08dc801f3bad962efc1164b8d8a4d1a639f6c0f8a2db81c80a67fa5ac",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.91501,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 159.77,
+      "brightness": 143.89,
+      "contrast": 51.96,
+      "resolution": "1080x1920",
+      "detector_score": 0.9981,
+      "face_area_ratio": 0.1
+    }
+  },
+  "o001": {
+    "frame_sha256": "4da2c006c8c0cd2454493b8cf8422f4d07b10d311644b90cf34de46136257622",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.900449,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 53.0,
+      "brightness": 115.3,
+      "contrast": 55.45,
+      "resolution": "1080x1920",
+      "detector_score": 0.9812,
+      "face_area_ratio": 0.0649
+    }
+  },
+  "o002": {
+    "frame_sha256": "8062bc766c8b669eb74b8303499428b0c15eecbc4b90a9b7294b754c35d08b0e",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999491,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.217501,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 119.79,
+      "brightness": 130.66,
+      "contrast": 84.46,
+      "resolution": "1080x1920",
+      "detector_score": 0.9979,
+      "face_area_ratio": 0.1122
+    }
+  },
+  "o003": {
+    "frame_sha256": "c42b73e7cd52f052bbc9aa4f204b210d4b172371594aacf29ca6a7de0d87ef7c",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999936,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.349214,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 44.22,
+      "brightness": 139.75,
+      "contrast": 82.0,
+      "resolution": "1080x1920",
+      "detector_score": 0.9958,
+      "face_area_ratio": 0.1012
+    }
+  },
+  "o004": {
+    "frame_sha256": "81d3fa9b87b96bb730cbed71414e9d23535cb57fa95336324d61588fb266fef3",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.86701,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.042129,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 284.97,
+      "brightness": 115.29,
+      "contrast": 57.62,
+      "resolution": "1080x1920",
+      "detector_score": 0.8156,
+      "face_area_ratio": 0.1801
+    }
+  },
+  "o005": {
+    "frame_sha256": "560ae4733402cfbdb45ff7df4c06775f0a19cd2cd39d509176e0fd61d194c8ea",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.99989,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.913884,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 17.82,
+      "brightness": 98.29,
+      "contrast": 71.14,
+      "resolution": "1080x1920",
+      "detector_score": 0.9897,
+      "face_area_ratio": 0.2208
+    }
+  },
+  "o006": {
+    "frame_sha256": "441f713ca3ec0224241ea1c165a57f4431a1b7cf1e2b7e39465fbae27f55ee26",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.940395,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.0075,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 26.92,
+      "brightness": 169.02,
+      "contrast": 45.18,
+      "resolution": "1080x1920",
+      "detector_score": 0.9967,
+      "face_area_ratio": 0.1149
+    }
+  },
+  "o007": {
+    "frame_sha256": "a49472e0fe51982bd5022ea0644f9bfb24d7e4e1e18b37cc3ba8439e9d1e8ff0",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999991,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.966695,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 20.32,
+      "brightness": 132.42,
+      "contrast": 43.14,
+      "resolution": "1080x1920",
+      "detector_score": 0.9871,
+      "face_area_ratio": 0.2283
+    }
+  },
+  "o008": {
+    "frame_sha256": "82230ee9ce257791198dd041729c32dddbb8f27ae46b9cde93634914fc829f37",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.998682,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.843362,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 54.41,
+      "brightness": 100.2,
+      "contrast": 76.48,
+      "resolution": "1080x1920",
+      "detector_score": 0.9947,
+      "face_area_ratio": 0.1556
+    }
+  },
+  "o009": {
+    "frame_sha256": "aa8e7b1285ecfd1374348d0f2dc50c02e51f75202a626f1081121355ff0dc9c5",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999945,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.883254,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 59.02,
+      "brightness": 135.15,
+      "contrast": 84.75,
+      "resolution": "1080x1920",
+      "detector_score": 0.9935,
+      "face_area_ratio": 0.0942
+    }
+  },
+  "o010": {
+    "frame_sha256": "85f76e9bcd5feb4621e0979c6ba430156b7abb29c6762d385b61a3d7fd665839",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.010523,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.112709,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 25.56,
+      "brightness": 99.39,
+      "contrast": 81.27,
+      "resolution": "1080x1920",
+      "detector_score": 0.9925,
+      "face_area_ratio": 0.1737
+    }
+  },
+  "o011": {
+    "frame_sha256": "ea7cf8711e96fe36d845cf26de2238538941ba09ed195dd9c446a15f8e947975",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999892,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.755128,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 25.11,
+      "brightness": 113.65,
+      "contrast": 86.36,
+      "resolution": "1080x1920",
+      "detector_score": 0.9767,
+      "face_area_ratio": 0.2394
+    }
+  },
+  "o012": {
+    "frame_sha256": "d263dc1c546ba95e31302dbacd48f4d49cdbd09b4e3b2e6e4dd12da808abec2c",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.188115,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.459516,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 96.62,
+      "brightness": 132.91,
+      "contrast": 88.18,
+      "resolution": "1080x1920",
+      "detector_score": 0.9948,
+      "face_area_ratio": 0.1288
+    }
+  },
+  "o013": {
+    "frame_sha256": "c1b383a3eaf5e94892eff530f3c3acfa85deda8b38adb5fcbcc9c5c0d862a3b8",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.255112,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.410858,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 26.14,
+      "brightness": 120.62,
+      "contrast": 65.78,
+      "resolution": "1080x1920",
+      "detector_score": 0.9898,
+      "face_area_ratio": 0.173
+    }
+  },
+  "o014": {
+    "frame_sha256": "0992dffdaecfaff6fddee9bda8dec6582c26fa233e194e5026446c08eb52425f",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999997,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.967928,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 155.35,
+      "brightness": 95.23,
+      "contrast": 72.07,
+      "resolution": "1080x1920",
+      "detector_score": 0.9939,
+      "face_area_ratio": 0.1335
+    }
+  },
+  "o015": {
+    "frame_sha256": "e5897da802a37836d6708dc53b2ccce24589d4b48adb44494b8a4e4d7e50e2f5",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.998959,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.625004,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 25.94,
+      "brightness": 118.15,
+      "contrast": 64.74,
+      "resolution": "1080x1920",
+      "detector_score": 0.996,
+      "face_area_ratio": 0.1019
+    }
+  },
+  "o016": {
+    "frame_sha256": "3859d8ca53b347b85e0ba5e3ef9f225625bd69631fb8d450eff59965fdd72375",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.077948,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.035158,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 75.74,
+      "brightness": 105.58,
+      "contrast": 104.61,
+      "resolution": "1080x1920",
+      "detector_score": 0.9976,
+      "face_area_ratio": 0.1238
+    }
+  },
+  "o017": {
+    "frame_sha256": "81ab6263aab338ed02689b11f459a54d9c1849343e25e87819eb3d0b7d6a6bc2",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.770611,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 183.3,
+      "brightness": 130.69,
+      "contrast": 64.7,
+      "resolution": "1080x1920",
+      "detector_score": 0.9961,
+      "face_area_ratio": 0.1333
+    }
+  },
+  "o018": {
+    "frame_sha256": "ea7d363076a00af12bdb956808c51ea42a0921b2f7e957480086b9fd083e3848",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999635,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.829529,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 206.69,
+      "brightness": 164.42,
+      "contrast": 64.77,
+      "resolution": "1080x1920",
+      "detector_score": 0.9745,
+      "face_area_ratio": 0.1179
+    }
+  },
+  "o019": {
+    "frame_sha256": "99b7e624e084b48a506e10fa3c846a9818772d29eaaaf90ab156d9683f8cec48",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.928705,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.664868,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 238.58,
+      "brightness": 101.17,
+      "contrast": 78.51,
+      "resolution": "1080x1920",
+      "detector_score": 0.9969,
+      "face_area_ratio": 0.0873
+    }
+  },
+  "o020": {
+    "frame_sha256": "a5807a6498af39e2fe7644bb72d5f8eb0525a61eea6177ea97ef52a530f95f8a",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999483,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.049769,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 40.36,
+      "brightness": 137.57,
+      "contrast": 54.17,
+      "resolution": "1080x1920",
+      "detector_score": 0.9909,
+      "face_area_ratio": 0.1739
+    }
+  },
+  "o021": {
+    "frame_sha256": "2edda15aa2e9b8bc767ba90df97240c59ae32a095fd91b6a1bb9957e1fde4681",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.996574,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.780587,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 43.57,
+      "brightness": 116.27,
+      "contrast": 66.74,
+      "resolution": "1080x1920",
+      "detector_score": 0.9943,
+      "face_area_ratio": 0.1499
+    }
+  },
+  "o022": {
+    "frame_sha256": "dde2ce1d08eb6dd61515bd40dbc487ee720d56ad73ca395dd637875e3c185c61",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999994,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.665605,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 51.4,
+      "brightness": 138.31,
+      "contrast": 73.87,
+      "resolution": "1080x1920",
+      "detector_score": 0.9979,
+      "face_area_ratio": 0.1097
+    }
+  },
+  "o023": {
+    "frame_sha256": "f2bb6e1397446f4a3e62935c2cd91a4156a0a5ee23d6b4387f045068c5435d44",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999996,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.822177,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 232.41,
+      "brightness": 102.25,
+      "contrast": 96.82,
+      "resolution": "1080x1920",
+      "detector_score": 0.9954,
+      "face_area_ratio": 0.0978
+    }
+  },
+  "o024": {
+    "frame_sha256": "d032dfd4f525a238eb04a5a7a0cdc831575d96ba5eca6fb2ca09843f70df0cd3",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.982373,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.768688,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 16.44,
+      "brightness": 119.5,
+      "contrast": 40.6,
+      "resolution": "1080x1920",
+      "detector_score": 0.7437,
+      "face_area_ratio": 0.1744
+    }
+  },
+  "o025": {
+    "frame_sha256": "c334a044290ee31690e207f898e42016b06a0726449f56ea723b89e8dacd49a5",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999959,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.956132,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 25.18,
+      "brightness": 150.87,
+      "contrast": 77.92,
+      "resolution": "1080x1920",
+      "detector_score": 0.9816,
+      "face_area_ratio": 0.2251
+    }
+  },
+  "o026": {
+    "frame_sha256": "bf6c8ebcb9b4a92e57ee49fbdd4c64ef5c64288961bc738c65efe645c8b35710",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.027833,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.003992,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 74.86,
+      "brightness": 122.07,
+      "contrast": 99.75,
+      "resolution": "1080x1920",
+      "detector_score": 0.9944,
+      "face_area_ratio": 0.126
+    }
+  },
+  "o027": {
+    "frame_sha256": "74c7a1ce9436fe171c04ae3e5eca72f30b003d47d799bff2670caeccfda122c9",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999889,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.564018,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 39.16,
+      "brightness": 121.63,
+      "contrast": 78.7,
+      "resolution": "1080x1920",
+      "detector_score": 0.987,
+      "face_area_ratio": 0.1379
+    }
+  },
+  "o028": {
+    "frame_sha256": "0cb461a3bfbbc4b18db674b0a524388aa5812d6e44af3deed5b020606f0dc61b",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.555602,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.123314,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 72.02,
+      "brightness": 125.01,
+      "contrast": 41.94,
+      "resolution": "1080x1920",
+      "detector_score": 0.9964,
+      "face_area_ratio": 0.1095
+    }
+  },
+  "o029": {
+    "frame_sha256": "9008b2f13e34c5ce0fd244ae4a2e653fb86a9bdbf7da1573040d9b722f514e3f",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999962,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.831214,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 136.1,
+      "brightness": 120.34,
+      "contrast": 94.88,
+      "resolution": "1080x1920",
+      "detector_score": 0.9965,
+      "face_area_ratio": 0.0903
+    }
+  },
+  "o030": {
+    "frame_sha256": "236a2da39a31ce934cc646723d3325f369ebd2bc4c001635974d209ff798d86b",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.986302,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.545201,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 28.41,
+      "brightness": 152.18,
+      "contrast": 69.49,
+      "resolution": "1080x1920",
+      "detector_score": 0.9921,
+      "face_area_ratio": 0.16
+    }
+  },
+  "o031": {
+    "frame_sha256": "75ca4d6ab3704e24bb262d9ab57454ab91d80c9c041fa441477235f117d1de25",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.98883,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.104951,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 30.55,
+      "brightness": 127.45,
+      "contrast": 64.58,
+      "resolution": "1080x1920",
+      "detector_score": 0.9907,
+      "face_area_ratio": 0.1665
+    }
+  },
+  "o032": {
+    "frame_sha256": "19ab630e6017085a71cfc49e876ac07004129fdd2a8c1f5f39aba4178bf586f6",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999313,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.171378,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 134.0,
+      "brightness": 106.87,
+      "contrast": 91.68,
+      "resolution": "1080x1920",
+      "detector_score": 0.9901,
+      "face_area_ratio": 0.1119
+    }
+  },
+  "o033": {
+    "frame_sha256": "668a1ea476a43a21d998bcb0df84c8f087e92d36ce772ea17d6d551ab958c2c0",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999737,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.493393,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 34.49,
+      "brightness": 116.72,
+      "contrast": 80.55,
+      "resolution": "1080x1920",
+      "detector_score": 0.9929,
+      "face_area_ratio": 0.1086
+    }
+  },
+  "o034": {
+    "frame_sha256": "958b56cabaad180199475e8a67fda7e04a542001c8e9fe95379dabb9158e6929",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999873,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.865668,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 16.31,
+      "brightness": 83.24,
+      "contrast": 60.66,
+      "resolution": "1080x1920",
+      "detector_score": 0.9914,
+      "face_area_ratio": 0.1714
+    }
+  },
+  "o035": {
+    "frame_sha256": "54771f828f8e9717ed6eb3f2fdab843e4fe685845a4f2972bc7228c7c26afe2f",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.405645,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.02069,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 280.95,
+      "brightness": 104.57,
+      "contrast": 92.96,
+      "resolution": "1080x1920",
+      "detector_score": 0.9878,
+      "face_area_ratio": 0.0936
+    }
+  },
+  "o036": {
+    "frame_sha256": "97096c105dee00a3ee7b67d0f78c5fd8d28b4bf25dae2b4bb0f02802ebc75703",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999996,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.97968,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 167.61,
+      "brightness": 102.58,
+      "contrast": 94.51,
+      "resolution": "1080x1920",
+      "detector_score": 0.9921,
+      "face_area_ratio": 0.1063
+    }
+  },
+  "o037": {
+    "frame_sha256": "2cb3777ce88093c52139332a45e87527ac3581ffc5621ab262d0d94a290a04ac",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999239,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.081985,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 33.96,
+      "brightness": 142.45,
+      "contrast": 70.85,
+      "resolution": "1080x1920",
+      "detector_score": 0.9895,
+      "face_area_ratio": 0.1055
+    }
+  },
+  "o038": {
+    "frame_sha256": "3fffb5533a1886648711f491206726fc9cf8a8c0a4d7f5f8425bce6fe4ad023a",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.940259,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.286081,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 120.74,
+      "brightness": 118.23,
+      "contrast": 57.31,
+      "resolution": "1080x1920",
+      "detector_score": 0.9642,
+      "face_area_ratio": 0.1632
+    }
+  },
+  "o039": {
+    "frame_sha256": "12da8dbeaa8e5436fd800ac41570ffd6ea0b63e73b7c7de5678f5867f58f2605",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.670845,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 99.53,
+      "brightness": 107.29,
+      "contrast": 65.54,
+      "resolution": "1080x1920",
+      "detector_score": 0.9859,
+      "face_area_ratio": 0.1228
+    }
+  },
+  "o040": {
+    "frame_sha256": "316f54374a60b6402fdcfc0761507b5a43814a5311b3982eec1597a0212bfb89",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.000606,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.002743,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 146.24,
+      "brightness": 152.65,
+      "contrast": 77.79,
+      "resolution": "1080x1920",
+      "detector_score": 0.9867,
+      "face_area_ratio": 0.1156
+    }
+  },
+  "o041": {
+    "frame_sha256": "b1eeaddb1c73a6fff6a4538e1276a50eb8b2f52368ab6d33b2c33bf7b96f7c94",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.997264,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.013287,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 40.8,
+      "brightness": 134.63,
+      "contrast": 58.02,
+      "resolution": "1080x1920",
+      "detector_score": 0.9759,
+      "face_area_ratio": 0.1628
+    }
+  },
+  "o042": {
+    "frame_sha256": "fa187bc6e6e3eb982efdcb2e523e443725b69c10c36347b4067643a441d2248d",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.478369,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.131003,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 9.76,
+      "brightness": 165.59,
+      "contrast": 65.36,
+      "resolution": "1080x1920",
+      "detector_score": 0.9944,
+      "face_area_ratio": 0.1291
+    }
+  },
+  "o043": {
+    "frame_sha256": "b546c230fbc6f23104b570b4318c4752550b0ae4016f2db6a294c1c422fb95c6",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999645,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.757252,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 318.2,
+      "brightness": 114.26,
+      "contrast": 93.56,
+      "resolution": "1080x1920",
+      "detector_score": 0.9918,
+      "face_area_ratio": 0.115
+    }
+  },
+  "o044": {
+    "frame_sha256": "831da0c5be4c559234b39315cf25108f9920f486b44aa574717d5442f429c29f",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999996,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.72333,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 312.23,
+      "brightness": 101.77,
+      "contrast": 97.97,
+      "resolution": "1080x1920",
+      "detector_score": 0.9265,
+      "face_area_ratio": 0.1175
+    }
+  },
+  "o045": {
+    "frame_sha256": "baf14d18ba1fdcf5bed460611fbf60a63bd5013256fa16301735a20b0f04e70d",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 1.0,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.995893,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 255.78,
+      "brightness": 158.21,
+      "contrast": 45.73,
+      "resolution": "1080x1920",
+      "detector_score": 0.9307,
+      "face_area_ratio": 0.152
+    }
+  },
+  "o046": {
+    "frame_sha256": "d4bd05eddcad36a4bfb7d3a0b6412278ca0d60247719bbd9ca75f83d5aa09e1e",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999123,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.044125,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 502.75,
+      "brightness": 138.93,
+      "contrast": 79.13,
+      "resolution": "1080x1920",
+      "detector_score": 0.9908,
+      "face_area_ratio": 0.1074
+    }
+  },
+  "o047": {
+    "frame_sha256": "2d9d50da98f8ead44f0d46f6c74985d3f36b6133d6101570353d0d331ff1cd83",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999978,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.940475,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 19.58,
+      "brightness": 154.67,
+      "contrast": 67.91,
+      "resolution": "1080x1920",
+      "detector_score": 0.9904,
+      "face_area_ratio": 0.178
+    }
+  },
+  "o048": {
+    "frame_sha256": "064f52abb17666864d9fd775ffc86f5e916fbda967198f0307ea538b178d05d2",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.193719,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.001747,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 51.7,
+      "brightness": 102.8,
+      "contrast": 67.2,
+      "resolution": "1080x1920",
+      "detector_score": 0.9869,
+      "face_area_ratio": 0.1466
+    }
+  },
+  "o049": {
+    "frame_sha256": "61207b2ab874eb8547629438b656f37ee77931e57c487e3cc920c618916331c8",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 1.0,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.845607,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 26.16,
+      "brightness": 101.63,
+      "contrast": 84.85,
+      "resolution": "1080x1920",
+      "detector_score": 0.992,
+      "face_area_ratio": 0.1226
+    }
+  },
+  "o050": {
+    "frame_sha256": "061fea19ffff07b1714df5b3a2c495ee8eefd18eda8276e92d07d49e3840aa65",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999998,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.925489,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 801.19,
+      "brightness": 95.34,
+      "contrast": 96.01,
+      "resolution": "1080x1920",
+      "detector_score": 0.9874,
+      "face_area_ratio": 0.1093
+    }
+  },
+  "o051": {
+    "frame_sha256": "9a1fba46814a461ba2cc8bc75454561b43e37c2ca64aca101615ca4047300e9a",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999929,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.807739,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 51.36,
+      "brightness": 105.51,
+      "contrast": 89.78,
+      "resolution": "1080x1920",
+      "detector_score": 0.9853,
+      "face_area_ratio": 0.0868
+    }
+  },
+  "o052": {
+    "frame_sha256": "12be9736dc6fe2da5da64dd0bace3c45e3b07703f9d26955d8e0d3b7d8121de7",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.998381,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.090661,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 23.85,
+      "brightness": 132.94,
+      "contrast": 74.24,
+      "resolution": "1080x1920",
+      "detector_score": 0.9266,
+      "face_area_ratio": 0.0658
+    }
+  },
+  "o053": {
+    "frame_sha256": "059895b86a886d597c656adf7d89037fb99ef0bbf92948f72ee81a0535c82e6f",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999983,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.836443,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 170.18,
+      "brightness": 98.07,
+      "contrast": 52.95,
+      "resolution": "1080x1920",
+      "detector_score": 0.9867,
+      "face_area_ratio": 0.0761
+    }
+  },
+  "o054": {
+    "frame_sha256": "0d83e37e17cb8ddfbf579e899c3899719525e37b81e222147cba1c5eb3fcf645",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 1.0,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.617905,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 55.19,
+      "brightness": 136.51,
+      "contrast": 48.53,
+      "resolution": "1080x1920",
+      "detector_score": 0.9962,
+      "face_area_ratio": 0.1084
+    }
+  },
+  "o055": {
+    "frame_sha256": "528b3c459f02a46eec898830b96a6a459a8ce868683001ffa63b25a9e9594257",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.982938,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.159153,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 109.19,
+      "brightness": 130.4,
+      "contrast": 51.53,
+      "resolution": "1080x1920",
+      "detector_score": 0.99,
+      "face_area_ratio": 0.1109
+    }
+  },
+  "o056": {
+    "frame_sha256": "fcf35fce33febd501f2579c2690db0ac0e3b20817fabad274302176958ac969c",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.621832,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.007339,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 13.69,
+      "brightness": 86.76,
+      "contrast": 86.7,
+      "resolution": "1080x1920",
+      "detector_score": 0.9906,
+      "face_area_ratio": 0.1359
+    }
+  },
+  "o057": {
+    "frame_sha256": "696271698a73a8231a622c0e1b9ea4e98df52a91a93f71189e5080da18f31b6a",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999992,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.825389,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 17.44,
+      "brightness": 131.44,
+      "contrast": 91.96,
+      "resolution": "1080x1920",
+      "detector_score": 0.9958,
+      "face_area_ratio": 0.1439
+    }
+  },
+  "o058": {
+    "frame_sha256": "9250a708d46ae443f95768a7652d7f55af9687bf215fb650f21f8e37a1d03e5d",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999971,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.947179,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 25.87,
+      "brightness": 99.61,
+      "contrast": 63.03,
+      "resolution": "1080x1920",
+      "detector_score": 0.8996,
+      "face_area_ratio": 0.2013
+    }
+  },
+  "o059": {
+    "frame_sha256": "6a120783513e144a684a3cdbaec08b56a2beadf8139b53bf432cb3bc638b85bf",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999997,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.969093,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 41.26,
+      "brightness": 129.73,
+      "contrast": 92.77,
+      "resolution": "1080x1920",
+      "detector_score": 0.9949,
+      "face_area_ratio": 0.1081
+    }
+  },
+  "o060": {
+    "frame_sha256": "ab1321988333981b2039d114ccd18b31918fa85bd95a8155172adc364ddb3fe4",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.998499,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.00722,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 162.96,
+      "brightness": 126.74,
+      "contrast": 62.41,
+      "resolution": "1080x1920",
+      "detector_score": 0.9234,
+      "face_area_ratio": 0.1582
+    }
+  },
+  "o061": {
+    "frame_sha256": "574b7b27387062f3ec5f52799729bbdd716b7209c74e0a177f277e1a9df192a5",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.727223,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 14.23,
+      "brightness": 140.69,
+      "contrast": 54.73,
+      "resolution": "1080x1920",
+      "detector_score": 0.994,
+      "face_area_ratio": 0.1748
+    }
+  },
+  "o062": {
+    "frame_sha256": "15a1717703bb297694211dd094bc4e217ae0dd69ae7e5b575ea9e1cc4b175faf",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999744,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.68314,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 35.82,
+      "brightness": 122.48,
+      "contrast": 62.73,
+      "resolution": "1080x1920",
+      "detector_score": 0.8711,
+      "face_area_ratio": 0.1151
+    }
+  },
+  "o063": {
+    "frame_sha256": "8c6c63afaccb575c84509bffaf6c49841eca1471c4c7ca2c7d256688a5918dcb",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999998,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.915013,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 133.39,
+      "brightness": 120.25,
+      "contrast": 85.31,
+      "resolution": "1080x1920",
+      "detector_score": 0.9944,
+      "face_area_ratio": 0.1401
+    }
+  },
+  "o064": {
+    "frame_sha256": "c4f4878fa53dec70f3f12ac04516f81843f3feedf06fc710937d527c9ee95b23",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.987269,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.043597,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 12.82,
+      "brightness": 147.37,
+      "contrast": 86.77,
+      "resolution": "1080x1920",
+      "detector_score": 0.9927,
+      "face_area_ratio": 0.077
+    }
+  },
+  "o065": {
+    "frame_sha256": "36f92e3e5890e5ab987e0b42906d2c39988693b5bd7d05f4da9d17fbefb0928d",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.001547,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.001609,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 9.76,
+      "brightness": 126.42,
+      "contrast": 68.23,
+      "resolution": "1080x1920",
+      "detector_score": 0.9885,
+      "face_area_ratio": 0.1707
+    }
+  },
+  "o066": {
+    "frame_sha256": "2ead3238b0a74c1bbd88f2e443238a9dddee71ffb27e3c36df0fc6c4904c3ab4",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.781691,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 31.53,
+      "brightness": 111.5,
+      "contrast": 98.25,
+      "resolution": "1080x1920",
+      "detector_score": 0.9933,
+      "face_area_ratio": 0.1063
+    }
+  },
+  "o067": {
+    "frame_sha256": "d0a3876bf163ff7593ad8022f628539eee4a451233a1b8d28fe9e18a96e69389",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999989,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.818319,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 23.28,
+      "brightness": 137.54,
+      "contrast": 68.54,
+      "resolution": "1080x1920",
+      "detector_score": 0.9827,
+      "face_area_ratio": 0.2275
+    }
+  },
+  "o068": {
+    "frame_sha256": "eac04bd719b70af1c7a184f7e273b077177e1bbb2686d7e186658cbb5bcc6dc0",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 1.0,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.997745,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 70.29,
+      "brightness": 146.22,
+      "contrast": 44.37,
+      "resolution": "1080x1920",
+      "detector_score": 0.982,
+      "face_area_ratio": 0.1351
+    }
+  },
+  "o069": {
+    "frame_sha256": "a87b4a2c775041533d0660ccb3b3d79d7d11f27b3e52af24c0993b732f08a1b0",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999988,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.745524,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 316.58,
+      "brightness": 103.99,
+      "contrast": 100.06,
+      "resolution": "1080x1920",
+      "detector_score": 0.9826,
+      "face_area_ratio": 0.1509
+    }
+  },
+  "o070": {
+    "frame_sha256": "b118dc86da76ac297f6d52d9b064203c95238560632092978aa62fab416885f0",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 1.0,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.978248,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 28.25,
+      "brightness": 165.58,
+      "contrast": 53.81,
+      "resolution": "1080x1920",
+      "detector_score": 0.9787,
+      "face_area_ratio": 0.2114
+    }
+  },
+  "o071": {
+    "frame_sha256": "d17fa42050bccf9a56ad563c8c8cebc1cc7b98d9e5a39371c7f00dd2243cc9c1",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999978,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.483354,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 168.08,
+      "brightness": 92.35,
+      "contrast": 93.5,
+      "resolution": "1080x1920",
+      "detector_score": 0.8863,
+      "face_area_ratio": 0.2077
+    }
+  },
+  "o072": {
+    "frame_sha256": "0a510150c56e7ded33cc42d3b6ae083dce6cde3065d2c24091375f71a07c6218",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999987,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.418004,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 387.75,
+      "brightness": 133.02,
+      "contrast": 67.71,
+      "resolution": "1080x1920",
+      "detector_score": 0.8689,
+      "face_area_ratio": 0.1538
+    }
+  },
+  "o073": {
+    "frame_sha256": "1532211601da8d5060cf3afd600ad8aa34c91daf0e0d4d4f1d8859dfeb73da59",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.037642,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.035447,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 156.31,
+      "brightness": 113.55,
+      "contrast": 80.95,
+      "resolution": "1080x1920",
+      "detector_score": 0.9699,
+      "face_area_ratio": 0.1298
+    }
+  },
+  "o074": {
+    "frame_sha256": "3ed36e2ed2e326102a4e6cde004f04547e3e8f7fcda4f7cc7a920635f4a635c0",
+    "minifasnet": {
+      "status": "error",
+      "error": "face_count_0"
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.176402,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 0,
+      "blur_laplacian_var": 391.74,
+      "brightness": 110.14,
+      "contrast": 55.23,
+      "resolution": "1080x1920"
+    }
+  },
+  "o075": {
+    "frame_sha256": "0596eae4badcae42c16e28331389e010617e24e7f6515f158dac1954ed5cc133",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999974,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.365391,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 40.32,
+      "brightness": 117.87,
+      "contrast": 65.99,
+      "resolution": "1080x1920",
+      "detector_score": 0.9956,
+      "face_area_ratio": 0.1219
+    }
+  },
+  "o076": {
+    "frame_sha256": "721ad832478f5d6b011bd289baa52dc1e419606bf76eb77af0d0404a08b4fcd8",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.951516,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.129151,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 146.91,
+      "brightness": 129.78,
+      "contrast": 68.48,
+      "resolution": "1080x1920",
+      "detector_score": 0.9969,
+      "face_area_ratio": 0.1427
+    }
+  },
+  "o077": {
+    "frame_sha256": "321605991ab94d7d241092ab93c9d560d4d70c4c92a0d49d4c1d5b47ade3a023",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 1.0,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.93666,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 35.15,
+      "brightness": 116.92,
+      "contrast": 74.37,
+      "resolution": "1080x1920",
+      "detector_score": 0.9349,
+      "face_area_ratio": 0.116
+    }
+  },
+  "o078": {
+    "frame_sha256": "540eca7d28486e1abf1d4517c4b6c1a6633c7fa4e78ec020ce078a17623e396b",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999989,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.83262,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 836.61,
+      "brightness": 135.53,
+      "contrast": 65.97,
+      "resolution": "1080x1920",
+      "detector_score": 0.9583,
+      "face_area_ratio": 0.2187
+    }
+  },
+  "o079": {
+    "frame_sha256": "67edb44416bbff5369b6378b7fe0cdfa3e5bbd52e59f9d7d0bec0ca4d8a409da",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.77542,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.272993,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 10.17,
+      "brightness": 92.72,
+      "contrast": 63.46,
+      "resolution": "1080x1920",
+      "detector_score": 0.9955,
+      "face_area_ratio": 0.1556
+    }
+  },
+  "o080": {
+    "frame_sha256": "65f78db89d23c088131bbdca77d9ebb45adc5fa351568b2a82d3aa8df8350404",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999964,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.942186,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 64.68,
+      "brightness": 146.77,
+      "contrast": 76.87,
+      "resolution": "1080x1920",
+      "detector_score": 0.9961,
+      "face_area_ratio": 0.1364
+    }
+  },
+  "o081": {
+    "frame_sha256": "b92784fc02e6e5389322fef89e7f571a0e01b2ee5be86c3afc427e6c4c394635",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.980679,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 26.87,
+      "brightness": 123.2,
+      "contrast": 55.72,
+      "resolution": "1080x1920",
+      "detector_score": 0.986,
+      "face_area_ratio": 0.192
+    }
+  },
+  "o082": {
+    "frame_sha256": "8bc6f97b27af8374c840ab415ebac416925d1fb1bad2f8bc314a859509181a4c",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999993,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.95063,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 63.94,
+      "brightness": 80.52,
+      "contrast": 60.86,
+      "resolution": "1080x1920",
+      "detector_score": 0.9933,
+      "face_area_ratio": 0.1123
+    }
+  },
+  "o083": {
+    "frame_sha256": "e843c9a662835fdc48c2d2675c892d6e9b5e45b23df792e388de78448b8d8d9b",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.99997,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.122683,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 182.75,
+      "brightness": 125.93,
+      "contrast": 72.04,
+      "resolution": "1080x1920",
+      "detector_score": 0.9939,
+      "face_area_ratio": 0.137
+    }
+  },
+  "o084": {
+    "frame_sha256": "764d2b8c5803c36af730c21841cff3112ad3833ea6320746364c7c3f00f91f3a",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999747,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.277559,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 66.95,
+      "brightness": 111.32,
+      "contrast": 84.05,
+      "resolution": "1080x1920",
+      "detector_score": 0.9679,
+      "face_area_ratio": 0.1773
+    }
+  },
+  "o085": {
+    "frame_sha256": "78767ba5b330337aa98b408d00748399113f86297334f01b0c699d52b868907b",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 1.0,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.594103,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 842.77,
+      "brightness": 111.44,
+      "contrast": 82.98,
+      "resolution": "1080x1920",
+      "detector_score": 0.987,
+      "face_area_ratio": 0.1379
+    }
+  },
+  "o086": {
+    "frame_sha256": "c9e18e6f891bd286ec55af95f3a0e532d55db538ed3a1ba0a26398cf2a08c5cb",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999212,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.892369,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 36.88,
+      "brightness": 115.77,
+      "contrast": 60.06,
+      "resolution": "1080x1920",
+      "detector_score": 0.9948,
+      "face_area_ratio": 0.0924
+    }
+  },
+  "o087": {
+    "frame_sha256": "cafbb030345b3e8d2cbacc32ec2e6b82a04f39044abd0d5ea9d5235388498e1f",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.755599,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.92373,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 59.69,
+      "brightness": 156.68,
+      "contrast": 69.58,
+      "resolution": "1080x1920",
+      "detector_score": 0.9915,
+      "face_area_ratio": 0.0835
+    }
+  },
+  "o088": {
+    "frame_sha256": "3f2085e1960aac75a9ff50620c1d4f78907ce00ca99de44acff97d4afefdcd8b",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999788,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.771073,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 84.62,
+      "brightness": 118.92,
+      "contrast": 75.93,
+      "resolution": "1080x1920",
+      "detector_score": 0.9734,
+      "face_area_ratio": 0.1325
+    }
+  },
+  "o089": {
+    "frame_sha256": "8b5205493b1c68c87f8ad321bf61249244c5b81549ca3446bb846bf6fbbe9e11",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999967,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.94774,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 22.88,
+      "brightness": 137.23,
+      "contrast": 86.5,
+      "resolution": "1080x1920",
+      "detector_score": 0.9851,
+      "face_area_ratio": 0.1825
+    }
+  },
+  "o090": {
+    "frame_sha256": "54e1f99ccc3cbaa8da052cee5b87e125f675173f2d4659f0469fcc4d7658957e",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999986,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.478115,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 108.6,
+      "brightness": 119.49,
+      "contrast": 86.32,
+      "resolution": "1080x1920",
+      "detector_score": 0.9907,
+      "face_area_ratio": 0.1441
+    }
+  },
+  "o091": {
+    "frame_sha256": "50e8f371819ab51ea0212e14641eb346f63440a6b31c8d40625f134e55b0952f",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.53282,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.317868,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 116.42,
+      "brightness": 132.46,
+      "contrast": 59.15,
+      "resolution": "1080x1920",
+      "detector_score": 0.9717,
+      "face_area_ratio": 0.1464
+    }
+  },
+  "o092": {
+    "frame_sha256": "5cc7435e90b30c3384aed1795e6404105c989d55c1aeb71e5eadaea10b34d0d2",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999965,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.705595,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 702.97,
+      "brightness": 85.72,
+      "contrast": 94.03,
+      "resolution": "1080x1920",
+      "detector_score": 0.9781,
+      "face_area_ratio": 0.1416
+    }
+  },
+  "o093": {
+    "frame_sha256": "6bb0220fdd3bfd61092b49dd7ca00fd220b6ea508eb487fcaf0e774b37991442",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999994,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.901276,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 97.25,
+      "brightness": 91.32,
+      "contrast": 69.17,
+      "resolution": "1080x1920",
+      "detector_score": 0.993,
+      "face_area_ratio": 0.1107
+    }
+  },
+  "o094": {
+    "frame_sha256": "6e6fe4b2b1b5238726cbeb42182b111a6018b9462679707ec1e9575c0abdecf2",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999966,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.988599,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 443.01,
+      "brightness": 130.86,
+      "contrast": 59.9,
+      "resolution": "1080x1920",
+      "detector_score": 0.9609,
+      "face_area_ratio": 0.2189
+    }
+  },
+  "o095": {
+    "frame_sha256": "d033bfa444d15d155e7054760d936cc9b994a0fbf60efc42e99b0af40b590fbe",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999986,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.973896,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 5188.25,
+      "brightness": 104.21,
+      "contrast": 62.02,
+      "resolution": "1080x1920",
+      "detector_score": 0.9415,
+      "face_area_ratio": 0.1282
+    }
+  },
+  "o096": {
+    "frame_sha256": "86b7e02ec416eae07fc2249b6a62cc4ead47b4823c3f331e1ef2c29d9db8911c",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999876,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.087885,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 28.63,
+      "brightness": 116.43,
+      "contrast": 74.34,
+      "resolution": "1080x1920",
+      "detector_score": 0.9921,
+      "face_area_ratio": 0.0968
+    }
+  },
+  "o097": {
+    "frame_sha256": "e4e989ace29c88562203d81311e0f83901575085aab1f02b12953d272f353b20",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999968,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.770733,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 33.69,
+      "brightness": 136.74,
+      "contrast": 42.82,
+      "resolution": "1080x1920",
+      "detector_score": 0.9946,
+      "face_area_ratio": 0.0921
+    }
+  },
+  "o098": {
+    "frame_sha256": "039d52fc49f27342090133bd389bf854509587d13fdeda875b26bf50e7ebca05",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999994,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.315543,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 83.63,
+      "brightness": 163.93,
+      "contrast": 61.8,
+      "resolution": "1080x1920",
+      "detector_score": 0.9964,
+      "face_area_ratio": 0.1181
+    }
+  },
+  "o099": {
+    "frame_sha256": "9c93b6b153116f7d2b234f1aed144bd819fc156c1bf4c4d1156d3b8c149dbe64",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999986,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.255768,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 188.38,
+      "brightness": 140.31,
+      "contrast": 56.55,
+      "resolution": "1080x1920",
+      "detector_score": 0.9888,
+      "face_area_ratio": 0.1295
+    }
+  },
+  "o100": {
+    "frame_sha256": "7e0a98eb54722f99563b26685fc5959d6a01784c7ab52671014ab1840c4f4ca8",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.868942,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.318752,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 111.04,
+      "brightness": 119.61,
+      "contrast": 68.38,
+      "resolution": "1080x1920",
+      "detector_score": 0.9653,
+      "face_area_ratio": 0.1584
+    }
+  },
+  "o101": {
+    "frame_sha256": "4b6aae72a3f682ff65ad7d9d5b8514323db706b66e0f8d3fe7eb8362809b5c3d",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 1.0,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.74421,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 32.17,
+      "brightness": 100.73,
+      "contrast": 96.23,
+      "resolution": "1080x1920",
+      "detector_score": 0.9929,
+      "face_area_ratio": 0.1581
+    }
+  },
+  "o102": {
+    "frame_sha256": "8fc7e2efebb5c749a14303abeb512a221bbfafd1a62a7bdf52de465ced50a6f7",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.064304,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.031954,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 24.97,
+      "brightness": 160.99,
+      "contrast": 62.4,
+      "resolution": "1080x1920",
+      "detector_score": 0.9963,
+      "face_area_ratio": 0.1965
+    }
+  },
+  "o103": {
+    "frame_sha256": "cd0bf91321a6cd9b0e980cd934809709f4815f1783770c1cc8bf1637ff8a5150",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.825239,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 302.68,
+      "brightness": 121.9,
+      "contrast": 76.69,
+      "resolution": "1080x1920",
+      "detector_score": 0.9938,
+      "face_area_ratio": 0.1312
+    }
+  },
+  "o104": {
+    "frame_sha256": "761b481f2ba67504648546ad2c15c1a6bf5b33ff2ac279f45c972393252b84c5",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999995,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.304099,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 546.62,
+      "brightness": 100.85,
+      "contrast": 97.54,
+      "resolution": "1080x1920",
+      "detector_score": 0.9226,
+      "face_area_ratio": 0.1567
+    }
+  },
+  "o105": {
+    "frame_sha256": "aeefbf7e1a8d0967bade87a2535053a968fe2e670ebec3edd33687e2e824199c",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.900434,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.101002,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 213.86,
+      "brightness": 136.48,
+      "contrast": 56.22,
+      "resolution": "1080x1920",
+      "detector_score": 0.9908,
+      "face_area_ratio": 0.1177
+    }
+  },
+  "o106": {
+    "frame_sha256": "c119df880161897fd034009298b98cc8958fd6d6ca2e4b96a924b0207c817936",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999979,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.558357,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 187.35,
+      "brightness": 111.27,
+      "contrast": 83.84,
+      "resolution": "1080x1920",
+      "detector_score": 0.6346,
+      "face_area_ratio": 0.1524
+    }
+  },
+  "o107": {
+    "frame_sha256": "0ba93c91c3290c06f959b06a41ba5f7357ebd511d790c9150537bbd1a3d796ea",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999442,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.60246,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 88.38,
+      "brightness": 114.03,
+      "contrast": 79.75,
+      "resolution": "1080x1920",
+      "detector_score": 0.9796,
+      "face_area_ratio": 0.1246
+    }
+  },
+  "o108": {
+    "frame_sha256": "05f1a81ff5bb862ab0d72a8b9bfc2ac1aa1bd07311a15eb984a7fe661281d011",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "spoof",
+      "live_score": 0.090668,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.166765,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "spoof",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 11.73,
+      "brightness": 125.78,
+      "contrast": 71.87,
+      "resolution": "1080x1920",
+      "detector_score": 0.9934,
+      "face_area_ratio": 0.1943
+    }
+  },
+  "o109": {
+    "frame_sha256": "ad4a2c4bc1f345e93501efeedfab2babbeedb0fca0e724f88f7381831b1a4cfb",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999999,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.674448,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 50.2,
+      "brightness": 99.21,
+      "contrast": 80.08,
+      "resolution": "1080x1920",
+      "detector_score": 0.9965,
+      "face_area_ratio": 0.1264
+    }
+  },
+  "o110": {
+    "frame_sha256": "98966a54addd9cffa14f22f34bfe649f3b4fd9e44e42019143ead9f430e6cdc4",
+    "minifasnet": {
+      "status": "ok",
+      "pad_label": "live",
+      "live_score": 0.999855,
+      "scores_calibrated": false
+    },
+    "thesis_vjune": {
+      "status": "ok",
+      "p_real": 0.952536,
+      "threshold_lcc_dev": 0.302,
+      "pad_label": "live",
+      "scores_calibrated": false
+    },
+    "quality": {
+      "face_count": 1,
+      "blur_laplacian_var": 16.33,
+      "brightness": 112.47,
+      "contrast": 49.2,
+      "resolution": "1080x1920",
+      "detector_score": 0.9844,
+      "face_area_ratio": 0.2624
+    }
+  }
+}

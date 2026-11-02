@@ -1,0 +1,44 @@
+[
+  {
+    "minifasnet": "live",
+    "thesis_vjune": "live",
+    "oulu_label": "live",
+    "artifact": "none",
+    "n": 32
+  },
+  {
+    "minifasnet": "live",
+    "thesis_vjune": "live",
+    "oulu_label": "spoof",
+    "artifact": "print",
+    "n": 4
+  },
+  {
+    "minifasnet": "live",
+    "thesis_vjune": "spoof",
+    "oulu_label": "spoof",
+    "artifact": "print",
+    "n": 4
+  },
+  {
+    "minifasnet": "live",
+    "thesis_vjune": "spoof",
+    "oulu_label": "spoof",
+    "artifact": "screen_replay",
+    "n": 2
+  },
+  {
+    "minifasnet": "spoof",
+    "thesis_vjune": "live",
+    "oulu_label": "spoof",
+    "artifact": "screen_replay",
+    "n": 1
+  },
+  {
+    "minifasnet": "spoof",
+    "thesis_vjune": "spoof",
+    "oulu_label": "spoof",
+    "artifact": "screen_replay",
+    "n": 5
+  }
+]

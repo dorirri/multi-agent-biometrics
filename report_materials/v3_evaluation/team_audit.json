@@ -1,0 +1,45 @@
+{
+  "load": {
+    "channel_analyst": {
+      "llm": 48,
+      "tool": 96,
+      "share": 0.1359773371104816
+    },
+    "conclusion": {
+      "llm": 48,
+      "tool": 144,
+      "share": 0.1813031161473088
+    },
+    "liveness_analyst": {
+      "llm": 49,
+      "tool": 144,
+      "share": 0.182247403210576
+    },
+    "orchestrator": {
+      "llm": 96,
+      "tool": 96,
+      "share": 0.1813031161473088
+    },
+    "session_analyst": {
+      "llm": 48,
+      "tool": 144,
+      "share": 0.1813031161473088
+    },
+    "verifier": {
+      "llm": 49,
+      "tool": 97,
+      "share": 0.13786591123701605
+    }
+  },
+  "events": {
+    "recheck": 1
+  },
+  "rechecks_by_agent": {
+    "liveness_analyst": 1
+  },
+  "analyst_llm_seconds_sum_vs_max": {
+    "sum": 1786.332465667976,
+    "max": 634.8301303319968
+  },
+  "mean_wall_seconds": 48.30373973008303
+}

@@ -1,0 +1,18 @@
+{
+  "seed": 8217,
+  "debug_n": 10,
+  "evaluation_n": 60,
+  "real_fields": [
+    "media bytes",
+    "supplier visual label"
+  ],
+  "synthetic_fields": [
+    "incident_id",
+    "delivery scenario",
+    "channel",
+    "history",
+    "client_note",
+    "controlled tool fault"
+  ],
+  "labels_are_not_agent_input": true
+}

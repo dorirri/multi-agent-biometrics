@@ -1,0 +1,48 @@
+{
+  "seed": 20261103,
+  "splits": {
+    "archive": {
+      "bona_fide": 18,
+      "presentation_attack": 18,
+      "injection_attack": 18
+    },
+    "debug": {
+      "bona_fide": 3,
+      "presentation_attack": 3,
+      "injection_attack": 3
+    },
+    "evaluation": {
+      "bona_fide": 16,
+      "presentation_attack": 16,
+      "injection_attack": 16
+    }
+  },
+  "debug_and_archive_users": [
+    36,
+    37,
+    38,
+    39
+  ],
+  "evaluation_users": "40-55 (OULU-NPU test partition)",
+  "thesis_model": "V_june.onnx",
+  "thesis_model_sha256": "b26dcfbe2856d5d5411d93fe8e95c973d56c14617fb72f791ef2ec1ed6676fe6",
+  "thesis_threshold": 0.3020094335079193,
+  "thesis_selection": "lowest LCC development EER among V_june/V_reg/V_light; OULU not used",
+  "minifasnet_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+  "real_fields": [
+    "frame bytes",
+    "OULU real/attack label",
+    "OULU attack instrument",
+    "PAD outputs"
+  ],
+  "synthetic_fields": [
+    "device",
+    "stream",
+    "session",
+    "history.sqlite",
+    "flag_reason",
+    "scenario class injection_attack",
+    "controlled tool fault"
+  ],
+  "labels_are_not_agent_input": true
+}

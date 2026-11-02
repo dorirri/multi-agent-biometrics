@@ -1,0 +1,102 @@
+{
+  "run_id": "local_evaluation_v1",
+  "split": "evaluation",
+  "methods": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "versions": {
+    "numpy": "2.2.6",
+    "opencv-python-headless": "4.12.0.88",
+    "onnxruntime": "1.23.2",
+    "pydantic": "2.12.5",
+    "matplotlib": "3.10.8",
+    "pytest": "9.0.2"
+  },
+  "llm_model": "qwen2.5-1.5b-instruct-q4_k_m",
+  "llm_base_url_configured": true,
+  "backend": "local",
+  "api_price_verified": false,
+  "cost_usd": 0,
+  "local_compute_cost_monetized": false,
+  "temperature": 0,
+  "seed": 8217,
+  "structured_decoding": "JSON schema grammar",
+  "max_calls_per_method": 4,
+  "max_completion_tokens_per_call": 600,
+  "max_completion_tokens_per_method": 2400,
+  "timeout_seconds": 40,
+  "max_api_calls_run": 162,
+  "pilot_run": "local_pilot_ten_v1",
+  "subset_file": "data/local_evaluation_selection.json",
+  "local_backend_manifest": {
+    "model": "Qwen2.5-1.5B-Instruct",
+    "quantization": "Q4_K_M",
+    "model_revision": "91cad51170dc346986eccefdc2dd33a9da36ead9",
+    "runtime_release": "b12032",
+    "records": [
+      {
+        "path": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+        "bytes": 1117320736,
+        "sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+        "download_seconds": 73.529
+      },
+      {
+        "path": "downloads/llama-b12032-bin-win-cpu-x64.zip",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-cpu-x64.zip",
+        "bytes": 24582754,
+        "sha256": "5296f5d18bb7d422c7c26f4bb9bc796d9d4f41e1312a8c296cff475bdc60d0d4",
+        "download_seconds": 1.387
+      },
+      {
+        "path": "docs/third_party/QWEN_LICENSE.txt",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/LICENSE",
+        "bytes": 11343,
+        "sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e",
+        "download_seconds": 0.003
+      },
+      {
+        "path": "docs/third_party/LLAMA_CPP_LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/b12032/LICENSE",
+        "bytes": 1078,
+        "sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d",
+        "download_seconds": 0.008
+      }
+    ]
+  },
+  "hashes": {
+    "triage\\agents.py": "ffef29b829ec30aa1ee41af75ed642c6000c112c0db7c45f2c1efc79ebcdb8c2",
+    "triage\\evidence.py": "e59013febcfb361821e9a1fa4344a1b1976aa7fbdac5d7a2a3f6242ef9592e4e",
+    "triage\\io.py": "255d136898f8cf597a05069e7ce6ba2302a0553d52365920f10dd201c92b540b",
+    "triage\\metrics.py": "d7d360b8874affcf9bc2f6139f3b2795991c16641decf43ad4df6b5d793910d3",
+    "triage\\pad.py": "062fc74a65fb3c469c877e5be97209c9f245a0312303672b29be783e33021b11",
+    "triage\\rules.py": "c605512164a172b83ab24d857d72333215bc575ff3f2d5963f1ee0816d53fcf5",
+    "triage\\schemas.py": "0e79b65c3ddfc3c6b0853299b509850a21b2cd0467ea1ce03ee8018a1f291bdc",
+    "triage\\__init__.py": "ead19721206b625d83ae38bb89242ca4135f5b14bac81668339567ad4ffd42b6",
+    "scripts\\download.py": "c1aafac245f5495b69dd4557acc8ce6dbb5d6692da18e90950b97c2a5ae3c760",
+    "scripts\\finalize.py": "506056240dbe19cb750845cdccf892a88e64f0077e6906e5d7e06d912b465a3a",
+    "scripts\\generate.py": "18875745065bc2a13f482faaf5f6c65a6d9b9ebef3dd3f335ab6393de539c116",
+    "scripts\\local_report.py": "0b1ec197b3288534d683ba92c4e6f5a27c47bfdc09034192ae36d90e90e0571f",
+    "scripts\\local_smoke.py": "077de45b4c6c3015ca7ce852d510c5143f94e747ef7dfec9d8a34820bba2fea2",
+    "scripts\\package.py": "f06868bfaa148bfd5a760907d69ea04341feaff9780fb586d0e2e10007658d6d",
+    "scripts\\probe_local.py": "00af227e9d549190aecd11d69da983e88fc4acd6791907e866e7f07024d94e53",
+    "scripts\\probe_untrusted.py": "15a67fd7121ce1de8088bed095538d5da409157d763dad8235432b06d0683ee2",
+    "scripts\\report.py": "f06ebbe9162999c8c32f756af48224d2f7dbb2a0bc9b336b98c9bdcadb4c8f90",
+    "scripts\\run.py": "a964da2b358bf5fdc6bb526606533bced231a9e0662df93af1b12f7376785535",
+    "scripts\\select_local_subset.py": "4ea457c8529d45f8ae70dcfde2146669e21560766cd797588bcc4dc3e2001e30",
+    "docs\\experiment_protocol.md": "c529a4b98adf0e83c23f9fb98b278f9f8e0e34d3420b90b43abef656f4ead5ac",
+    "requirements.txt": "2dd322b30f1244b42602a9f9140b3c14dedcdb80486221577be7e31a5a5c22fb",
+    "data\\incidents.jsonl": "67c720abeb8624e8a90e4c411c0592c4e8c7019f3823cc2d38bc1663d0b6c6d1",
+    "data\\labels.jsonl": "37acadcb1d39f133c94eee711bc110ed4ec1444584249a70cdff1e88a2fa3852",
+    "data\\visual_cache.json": "036c0b3df1af0aea05cf9d8884bddd91c40f99ded2d986c75edfe3044ecbcacc",
+    "docs\\local_protocol_addendum.md": "db319a068acdc5ef2eb726fb912480736230c16010cf1f8df7854aede3711aef",
+    "data\\local_evaluation_selection.json": "bcfa67f9dd85d5fbbea0d0410c3916049acee43c2a0610624a31e348e99e948b"
+  },
+  "started_utc": "2026-11-01T20:31:18Z"
+}

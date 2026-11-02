@@ -1,0 +1,162 @@
+{
+  "A": {
+    "rows": [
+      "live",
+      "spoof"
+    ],
+    "columns": [
+      "live",
+      "spoof",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        10,
+        0,
+        2
+      ],
+      [
+        0,
+        5,
+        1
+      ]
+    ],
+    "n": 18
+  },
+  "B": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        3,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        5,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        1,
+        4
+      ]
+    ],
+    "n": 18
+  },
+  "C": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        3
+      ],
+      [
+        5,
+        0,
+        0,
+        1
+      ]
+    ],
+    "n": 18
+  },
+  "D": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        0,
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        6
+      ]
+    ],
+    "n": 18
+  },
+  "E": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        2,
+        0,
+        0,
+        4
+      ],
+      [
+        1,
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0,
+        6
+      ]
+    ],
+    "n": 18
+  }
+}

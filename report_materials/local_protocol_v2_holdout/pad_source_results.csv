@@ -1,0 +1,9 @@
+﻿source_id,kind,supplier_visual_label,PAD_status,PAD_label,live_score_uncalibrated,frames,successful_frames,errors
+h00,image,live,ok,live,0.9997668862342834,1,1,
+h01,image,live,error,N/A,N/A,1,0,face_count_0
+h02,image,live,ok,live,0.9821286201477051,1,1,
+h03,image,live,ok,live,0.9999634027481079,1,1,
+h04,video,spoof,ok,live,0.8676154017448425,3,3,
+h05,video,spoof,ok,spoof,0.06684307847172022,3,3,
+h06,video,spoof,ok,live,0.9407142599423727,3,3,
+h07,video,spoof,ok,live,0.9969230890274048,3,3,

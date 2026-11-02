@@ -1,0 +1,310 @@
+[
+  {
+    "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+    "method": "C",
+    "role": "single",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The channel evidence confirms the use of a virtual camera, which is not typically used for live events. The history evidence shows a timestamp gap of 251 ms, suggesting a potential attack. The channel evidence also indicates an invalid attestation, which is a red flag. These inconsistencies and contradictions strongly suggest a presentation attack."
+  },
+  {
+    "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The derived evidence confirms the same live score, further supporting the presence of a live event. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "b90ce75e0c1acf034206f449b7145254",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "b90ce75e0c1acf034206f449b7145254",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "b90ce75e0c1acf034206f449b7145254",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "b90ce75e0c1acf034206f449b7145254",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "aafab0b56ddcd5b65521b24b20a988a8",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9979568719863892, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would suggest a need for escalation or rejection."
+  },
+  {
+    "incident_id": "aafab0b56ddcd5b65521b24b20a988a8",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9979568719863892, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would suggest a need for escalation."
+  },
+  {
+    "incident_id": "aafab0b56ddcd5b65521b24b20a988a8",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9979568719863892, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would suggest a need for escalation."
+  },
+  {
+    "incident_id": "aafab0b56ddcd5b65521b24b20a988a8",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9979568719863892, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would suggest a need for escalation."
+  },
+  {
+    "incident_id": "71c6d2f1c67a0faa2fbca11f157b6636",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would suggest a need for further investigation."
+  },
+  {
+    "incident_id": "71c6d2f1c67a0faa2fbca11f157b6636",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live subject. The derived evidence confirms the same live score, further supporting the presence of a live subject. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "71c6d2f1c67a0faa2fbca11f157b6636",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The frame count is 1, suggesting a single frame, which is sufficient for analysis. There are no missing data points."
+  },
+  {
+    "incident_id": "71c6d2f1c67a0faa2fbca11f157b6636",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The frame count is 1, suggesting a single frame, which is sufficient for analysis. There are no missing data points."
+  },
+  {
+    "incident_id": "71c6d2f1c67a0faa2fbca11f157b6636",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The frame count is 1, suggesting a single frame, which is sufficient for analysis. There are no missing data points."
+  },
+  {
+    "incident_id": "908ed4ffed802aea883bf9eca2ff4fe1",
+    "method": "C",
+    "role": "single",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "All evidence is consistent and supports the conclusion that the subject is a bona fide entity. The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The channel evidence confirms the camera is functioning normally. The history evidence shows no previous events that would indicate an attack. The check evidence shows the event is live with no binding mismatch. There are no contradictions or missing data that would suggest an attack. The subject is not a synthetic entity, and the evidence is consistent with the subject being a bona fide entity."
+  },
+  {
+    "incident_id": "908ed4ffed802aea883bf9eca2ff4fe1",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would suggest a need for escalation or rejection."
+  },
+  {
+    "incident_id": "908ed4ffed802aea883bf9eca2ff4fe1",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and within the expected range, suggesting the evidence is trustworthy. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "908ed4ffed802aea883bf9eca2ff4fe1",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and within the expected range, suggesting the evidence is trustworthy. The virtual camera is active, indicating a potential injection attempt. The server observation shows an invalid attestation, indicating a potential injection attempt. The previous event history shows a successful outcome, which is inconsistent with an injection attack."
+  },
+  {
+    "incident_id": "908ed4ffed802aea883bf9eca2ff4fe1",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and within the expected range, suggesting the evidence is trustworthy. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+    "method": "C",
+    "role": "single",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9995881915092468, indicating a high probability of a bona fide event. The channel evidence is synthetic and does not provide any conflicting information. The history evidence shows a consistent pattern of success outcomes, further supporting the conclusion that this is a bona fide event."
+  },
+  {
+    "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9995881915092468, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9995881915092468, indicating a high probability of a live subject. The derived evidence confirms the same live score, further supporting the presence of a live subject. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "33f5f7116849d1844af0e2912f529cc2",
+    "method": "C",
+    "role": "single",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The channel and history evidence are missing, but the live score is sufficient to conclude that the event is bona fide. There are no contradictions that would require a rejection or escalation."
+  },
+  {
+    "incident_id": "33f5f7116849d1844af0e2912f529cc2",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and within the expected range, suggesting the evidence is trustworthy. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "33f5f7116849d1844af0e2912f529cc2",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "33f5f7116849d1844af0e2912f529cc2",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "33f5f7116849d1844af0e2912f529cc2",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986513257026672, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "2690a6a9ff78485a4b172f93adbdd67d",
+    "method": "C",
+    "role": "single",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986955523490906, indicating a high probability of a live event. The channel evidence shows a virtual camera, which is not a normal operation, and a timestamp gap of 237 ms, suggesting a device change. The history evidence shows failed outcomes 600 and 540 seconds before, indicating a pattern of failed events. These inconsistencies and contradictions strongly suggest a presentation attack."
+  },
+  {
+    "incident_id": "2690a6a9ff78485a4b172f93adbdd67d",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986955523490906, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "2690a6a9ff78485a4b172f93adbdd67d",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986955523490906, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. The virtual camera is not functioning properly, indicating a potential injection attack. The server observation shows an absence of attestation and a mismatch in capture binding, which are strong indicators of an injection attack. The previous events show failed outcomes, further supporting the suspicion of a presentation attack."
+  },
+  {
+    "incident_id": "2690a6a9ff78485a4b172f93adbdd67d",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9986955523490906, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "7f14fec3d0abaedd770bf174450c9622",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9979568719863892, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is trustworthy. There are no contradictions or missing data that would affect the classification."
+  },
+  {
+    "incident_id": "7f14fec3d0abaedd770bf174450c9622",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9979568719863892, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "7f14fec3d0abaedd770bf174450c9622",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9979568719863892, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. The virtual camera is not functioning properly, indicating a potential injection attempt. The server observation shows an invalid attestation and a timestamp gap, which are strong indicators of a compromised system. The previous events show a pattern of successful transactions followed by a failed transaction, which is suspicious and suggests an injection attempt."
+  },
+  {
+    "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+    "method": "C",
+    "role": "single",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The channel evidence shows a virtual camera, which is not a normal operation, and a timestamp gap of 444 ms, suggesting a device change. The history evidence shows failed outcomes 600 and 540 seconds before, indicating a pattern of failed events. These inconsistencies and contradictions strongly suggest a presentation attack."
+  },
+  {
+    "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+    "method": "C",
+    "role": "single",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The evidence provided does not indicate any contradictions or missing data. The visual evidence shows a live score of 0.9999836683273315, which is very close to 1, suggesting a high probability of a live event. The channel evidence confirms the camera is functioning normally. The history evidence shows no previous events that could indicate a presentation or injection attack. The check evidence confirms the event is live with a binding mismatch, which is consistent with a live event. There are no missing or failed observations, and the event is already observed. The live event with a binding mismatch is the strongest indicator of a live event, and the other evidence supports this. Therefore, the event is likely a live event, and it is safe to allow it."
+  },
+  {
+    "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The live score is calibrated and valid, suggesting the evidence is reliable. There are no missing or contradictory pieces of evidence."
+  },
+  {
+    "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+    "method": "D",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live subject. The derived evidence confirms the status as 'ok' and the visual status as 'ok'. There are no contradictions or missing data."
+  },
+  {
+    "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+    "method": "E",
+    "role": "visual",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The frame count is 1, suggesting a single frame, which is sufficient for analysis. There are no missing channels or contradictions. The evidence is consistent with the observed by field, and the status is 'ok'."
+  },
+  {
+    "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+    "method": "E",
+    "role": "verifier",
+    "issue": "Potential unsupported probability interpretation of uncalibrated score; requires manual reading",
+    "rationale": "The visual evidence shows a live score of 0.9999836683273315, indicating a high probability of a live event. The frame count is 1, suggesting a single frame, which is sufficient for analysis. There are no missing channels or contradictions. The evidence is consistent with the observed by field, and the status is 'ok'. The channel evidence suggests a mismatch between the attestation and capture binding, indicating a potential injection attack. The virtual camera being off and the device change flag being true further support this suspicion. The previous failed events also indicate a history of failed deliveries, which is a red flag for an injection attack."
+  }
+]

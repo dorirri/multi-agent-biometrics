@@ -1,0 +1,104 @@
+{
+  "C": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 2
+  },
+  "D": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 2
+  },
+  "E": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 2
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "comparison_script_sha256": "3787ca26071e571c7e531c07d5ce57c512f96d0dbf837266afb4f379b2a9f70c",
+  "baseline_predictions_sha256": "2a32d29febde51b1c29ac49378a06c724c212a7835a3270e901d4e66903a9e26",
+  "new_predictions_sha256": "414f0e2f076add7d5eeb8692b5851883479441d7bf5b5b263b739ca89b0d50cd",
+  "freeze_sha256": "122f70d1561cfa01c20ac0eaa4e5d3585e3eaedcf29a63581a37c2b438846a1e",
+  "analysis_only_after_generation": true
+}

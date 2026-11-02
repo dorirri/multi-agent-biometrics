@@ -1,0 +1,111 @@
+{
+  "run_id": "protocol_v2_debug",
+  "protocol_version": 2,
+  "exploratory_follow_up": true,
+  "baseline_run": "local_evaluation_v1",
+  "split": "debug",
+  "methods": [
+    "C",
+    "D",
+    "E"
+  ],
+  "subset_file": "data/protocol_v2_debug_selection.json",
+  "pilot_run": null,
+  "backend": "local",
+  "model": "qwen2.5-1.5b-instruct-q4_k_m",
+  "local_backend_manifest": {
+    "model": "Qwen2.5-1.5B-Instruct",
+    "quantization": "Q4_K_M",
+    "model_revision": "91cad51170dc346986eccefdc2dd33a9da36ead9",
+    "runtime_release": "b12032",
+    "records": [
+      {
+        "path": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+        "bytes": 1117320736,
+        "sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+        "download_seconds": 73.529
+      },
+      {
+        "path": "downloads/llama-b12032-bin-win-cpu-x64.zip",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-cpu-x64.zip",
+        "bytes": 24582754,
+        "sha256": "5296f5d18bb7d422c7c26f4bb9bc796d9d4f41e1312a8c296cff475bdc60d0d4",
+        "download_seconds": 1.387
+      },
+      {
+        "path": "docs/third_party/QWEN_LICENSE.txt",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/LICENSE",
+        "bytes": 11343,
+        "sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e",
+        "download_seconds": 0.003
+      },
+      {
+        "path": "docs/third_party/LLAMA_CPP_LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/b12032/LICENSE",
+        "bytes": 1078,
+        "sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d",
+        "download_seconds": 0.008
+      }
+    ]
+  },
+  "server_config": {
+    "runtime": "llama.cpp",
+    "release": "b12032",
+    "version": "0.8.0-dev",
+    "commit": "dde879bc4",
+    "cpu_threads": 6,
+    "batch_threads": 6,
+    "gpu_layers": 0,
+    "context_tokens": 8192,
+    "parallel_slots": 1,
+    "seed": 8217,
+    "host": "127.0.0.1",
+    "port": 8080,
+    "alias": "qwen2.5-1.5b-instruct-q4_k_m",
+    "model_path": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+    "temperature_per_request": 0,
+    "max_tokens_per_request": 600,
+    "timeout_seconds": 40,
+    "cost_api_usd": 0,
+    "prefix_cache": "runtime default; fixed sequential method order",
+    "server_log_directory": "results/local_feasibility"
+  },
+  "python": "3.11.9",
+  "versions": {
+    "numpy": "2.2.6",
+    "onnxruntime": "1.23.2",
+    "pydantic": "2.12.5"
+  },
+  "temperature": 0,
+  "seed": 8217,
+  "max_tokens_per_call": 600,
+  "max_calls_per_method": 4,
+  "max_checks_per_method": 1,
+  "timeout_seconds": 40,
+  "max_api_calls_run": 18,
+  "cost_usd": 0,
+  "hashes": {
+    "triage/protocol_v2.py": "d85c9f4ec0143f33787be58abda8197675d660464b63b2f22847aeeaaab9c805",
+    "triage/agents.py": "ffef29b829ec30aa1ee41af75ed642c6000c112c0db7c45f2c1efc79ebcdb8c2",
+    "triage/schemas.py": "0e79b65c3ddfc3c6b0853299b509850a21b2cd0467ea1ce03ee8018a1f291bdc",
+    "triage/rules.py": "c605512164a172b83ab24d857d72333215bc575ff3f2d5963f1ee0816d53fcf5",
+    "triage/evidence.py": "e59013febcfb361821e9a1fa4344a1b1976aa7fbdac5d7a2a3f6242ef9592e4e",
+    "triage/metrics.py": "d7d360b8874affcf9bc2f6139f3b2795991c16641decf43ad4df6b5d793910d3",
+    "scripts/run_protocol_v2.py": "8e0eb2cc7aab23bedfeff2140215fab764c308db9d2d74fdcd233b1b6c0e10a6",
+    "scripts/freeze_protocol_v2.py": "2ae2d08243816140a8512791d5507d8606b3389c65db203415504f22e32111f6",
+    "tests/test_protocol_v2.py": "376306b92881cd7721565d78fb9f8e24d4b4a9e419b84a4a162d46de67a03b30",
+    "docs/protocol_v2_plan.md": "2862804f9a34a956e4403a16fee742b4fd81336155398036502f52d105905a04",
+    "data/incidents.jsonl": "67c720abeb8624e8a90e4c411c0592c4e8c7019f3823cc2d38bc1663d0b6c6d1",
+    "data/labels.jsonl": "37acadcb1d39f133c94eee711bc110ed4ec1444584249a70cdff1e88a2fa3852",
+    "data/visual_cache.json": "036c0b3df1af0aea05cf9d8884bddd91c40f99ded2d986c75edfe3044ecbcacc",
+    "data/local_evaluation_selection.json": "bcfa67f9dd85d5fbbea0d0410c3916049acee43c2a0610624a31e348e99e948b",
+    "data/local_backend_manifest.json": "3168768055ff560000f8c09ac43e18ef3e1c0cc27716fbf95b68d7f3d7ca6567",
+    "data/local_server_config.json": "09cee0a5bb34245c92a748a49fcba7b2ecad2371693c1e9c720956c6d048b691",
+    "data/protocol_v2_debug_selection.json": "b55cb17dbf1a0bfc4e41c4dd263574bfd7d503730477b810bd4749efee0101aa",
+    "data/protocol_v2_initial.schema.json": "da1e4d6261487e01263a38bed70d8522d56b3e735f244e0470c6cc58fa0d76dd",
+    "data/protocol_v2_final.schema.json": "4387e88b4de2e191039e24fe326b01aa3dfdf7b76204fa5e66238952b93e7141",
+    "data/protocol_v2_prompts.json": "7ad8726fc93a84f0a4f9bb559e18d5726ba3f50034e9dca708bbdee5a49f8fcc"
+  },
+  "started_utc": "2026-11-02T06:19:04Z"
+}

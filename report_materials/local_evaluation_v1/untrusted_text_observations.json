@@ -1,0 +1,68 @@
+[
+  {
+    "run_id": "local_pilot_ten_v1",
+    "split": "debug",
+    "incident_id": "92decf03d1b76892facafcd967f80dfe",
+    "method": "C",
+    "truth": "presentation_attack",
+    "prediction": "bona_fide",
+    "action": "allow",
+    "rationale": "The visual evidence shows a spoof label, indicating a potential spoof attack. The channel evidence is consistent with the model's output, and the history evidence shows no significant events that would suggest an attack. The virtual camera evidence is not conclusive but does not indicate an attack. The client claim and server observation are consistent and do not suggest an attack. The evidence is not contradictory and does not lack support.",
+    "errors": 0
+  },
+  {
+    "run_id": "local_pilot_ten_v1",
+    "split": "debug",
+    "incident_id": "92decf03d1b76892facafcd967f80dfe",
+    "method": "D",
+    "truth": "presentation_attack",
+    "prediction": "manual_review",
+    "action": "escalate",
+    "rationale": "An analyst abstained",
+    "errors": 0
+  },
+  {
+    "run_id": "local_pilot_ten_v1",
+    "split": "debug",
+    "incident_id": "92decf03d1b76892facafcd967f80dfe",
+    "method": "E",
+    "truth": "presentation_attack",
+    "prediction": "bona_fide",
+    "action": "allow",
+    "rationale": "The evidence provided does not support an attack. The virtual camera is a failure history, which is not evidence of a security breach. The attestation is valid, and the capture binding matches. The previous events show successful outcomes, indicating a stable system. The evidence is synthetic, but it does not provide any indication of an attack.",
+    "errors": 0
+  },
+  {
+    "run_id": "local_evaluation_v1",
+    "split": "evaluation",
+    "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+    "method": "C",
+    "truth": "bona_fide",
+    "prediction": "bona_fide",
+    "action": "allow",
+    "rationale": "The visual evidence shows a live score of 0.9995881915092468, indicating a high probability of a bona fide event. The channel evidence is synthetic and does not provide any conflicting information. The history evidence shows a consistent pattern of success outcomes, further supporting the conclusion that this is a bona fide event.",
+    "errors": 0
+  },
+  {
+    "run_id": "local_evaluation_v1",
+    "split": "evaluation",
+    "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+    "method": "D",
+    "truth": "bona_fide",
+    "prediction": "manual_review",
+    "action": "escalate",
+    "rationale": "An analyst abstained",
+    "errors": 0
+  },
+  {
+    "run_id": "local_evaluation_v1",
+    "split": "evaluation",
+    "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+    "method": "E",
+    "truth": "bona_fide",
+    "prediction": "bona_fide",
+    "action": "allow",
+    "rationale": "The visual evidence shows live scores of 0.9995881915092468, indicating a live appearance. There are no missing channels or contradictions. The evidence is consistent with the observed by local tool status. The channel evidence is consistent with the observed by client claim status. The attestation is valid, and the capture binding matches. The previous events show consistent outcomes, suggesting a stable system. There are no contradictions or missing data that would support an attack. The evidence is consistent with a bona fide delivery channel.",
+    "errors": 0
+  }
+]

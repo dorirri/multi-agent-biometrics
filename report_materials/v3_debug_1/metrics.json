@@ -1,0 +1,592 @@
+{
+  "A_minifas": {
+    "n": 9,
+    "precision_bona_fide": {
+      "num": 1,
+      "den": 5,
+      "value": 0.2
+    },
+    "recall_bona_fide": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    },
+    "f1_bona_fide": {
+      "num": 2,
+      "den": 8,
+      "value": 0.25
+    },
+    "precision_presentation_attack": {
+      "num": 2,
+      "den": 2,
+      "value": 1.0
+    },
+    "recall_presentation_attack": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "f1_presentation_attack": {
+      "num": 4,
+      "den": 5,
+      "value": 0.8
+    },
+    "precision_injection_attack": {
+      "num": 0,
+      "den": 0,
+      "value": null
+    },
+    "recall_injection_attack": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "f1_injection_attack": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "macro_f1": 0.35000000000000003,
+    "attack_allow": {
+      "num": 4,
+      "den": 6,
+      "value": 0.6666666666666666
+    },
+    "attack_reverify": {
+      "num": 0,
+      "den": 6,
+      "value": 0.0
+    },
+    "benign_allow": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    },
+    "benign_reverify": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "benign_block": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "manual_review": {
+      "num": 2,
+      "den": 9,
+      "value": 0.2222222222222222
+    },
+    "coverage": {
+      "num": 7,
+      "den": 9,
+      "value": 0.7777777777777778
+    },
+    "selective_accuracy": {
+      "num": 3,
+      "den": 7,
+      "value": 0.42857142857142855
+    },
+    "injection_as_presentation": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "attack_type_correct_given_class": {
+      "num": 0,
+      "den": 2,
+      "value": 0.0
+    },
+    "mean_confidence_correct": 1.0,
+    "mean_confidence_wrong": 1.0,
+    "risk_high_on_attacks": {
+      "num": 2,
+      "den": 6,
+      "value": 0.3333333333333333
+    },
+    "mean_seconds": 0.00011818055564718734,
+    "max_seconds": 0.0004942919986206107,
+    "llm_calls": 0,
+    "tool_calls": 9,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "llm_errors": 0,
+    "fallbacks": {},
+    "pad_bpcer": {
+      "num": 2,
+      "den": 6,
+      "value": 0.3333333333333333
+    },
+    "pad_apcer": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    }
+  },
+  "A_thesis": {
+    "n": 9,
+    "precision_bona_fide": {
+      "num": 0,
+      "den": 4,
+      "value": 0.0
+    },
+    "recall_bona_fide": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "f1_bona_fide": {
+      "num": 0,
+      "den": 7,
+      "value": 0.0
+    },
+    "precision_presentation_attack": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "recall_presentation_attack": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "f1_presentation_attack": {
+      "num": 4,
+      "den": 6,
+      "value": 0.6666666666666666
+    },
+    "precision_injection_attack": {
+      "num": 0,
+      "den": 0,
+      "value": null
+    },
+    "recall_injection_attack": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "f1_injection_attack": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "macro_f1": 0.2222222222222222,
+    "attack_allow": {
+      "num": 4,
+      "den": 6,
+      "value": 0.6666666666666666
+    },
+    "attack_reverify": {
+      "num": 0,
+      "den": 6,
+      "value": 0.0
+    },
+    "benign_allow": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "benign_reverify": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "benign_block": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    },
+    "manual_review": {
+      "num": 2,
+      "den": 9,
+      "value": 0.2222222222222222
+    },
+    "coverage": {
+      "num": 7,
+      "den": 9,
+      "value": 0.7777777777777778
+    },
+    "selective_accuracy": {
+      "num": 2,
+      "den": 7,
+      "value": 0.2857142857142857
+    },
+    "injection_as_presentation": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "attack_type_correct_given_class": {
+      "num": 0,
+      "den": 2,
+      "value": 0.0
+    },
+    "mean_confidence_correct": 1.0,
+    "mean_confidence_wrong": 1.0,
+    "risk_high_on_attacks": {
+      "num": 2,
+      "den": 6,
+      "value": 0.3333333333333333
+    },
+    "mean_seconds": 1.6976779281523908e-05,
+    "max_seconds": 2.8250004106666893e-05,
+    "llm_calls": 0,
+    "tool_calls": 9,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "llm_errors": 0,
+    "fallbacks": {},
+    "pad_bpcer": {
+      "num": 3,
+      "den": 6,
+      "value": 0.5
+    },
+    "pad_apcer": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    }
+  },
+  "B": {
+    "n": 9,
+    "precision_bona_fide": {
+      "num": 0,
+      "den": 0,
+      "value": null
+    },
+    "recall_bona_fide": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "f1_bona_fide": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "precision_presentation_attack": {
+      "num": 1,
+      "den": 1,
+      "value": 1.0
+    },
+    "recall_presentation_attack": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    },
+    "f1_presentation_attack": {
+      "num": 2,
+      "den": 4,
+      "value": 0.5
+    },
+    "precision_injection_attack": {
+      "num": 2,
+      "den": 2,
+      "value": 1.0
+    },
+    "recall_injection_attack": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "f1_injection_attack": {
+      "num": 4,
+      "den": 5,
+      "value": 0.8
+    },
+    "macro_f1": 0.43333333333333335,
+    "attack_allow": {
+      "num": 0,
+      "den": 6,
+      "value": 0.0
+    },
+    "attack_reverify": {
+      "num": 0,
+      "den": 6,
+      "value": 0.0
+    },
+    "benign_allow": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "benign_reverify": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "benign_block": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "manual_review": {
+      "num": 6,
+      "den": 9,
+      "value": 0.6666666666666666
+    },
+    "coverage": {
+      "num": 3,
+      "den": 9,
+      "value": 0.3333333333333333
+    },
+    "selective_accuracy": {
+      "num": 3,
+      "den": 3,
+      "value": 1.0
+    },
+    "injection_as_presentation": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "attack_type_correct_given_class": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "mean_confidence_correct": 1.0,
+    "mean_confidence_wrong": null,
+    "risk_high_on_attacks": {
+      "num": 6,
+      "den": 6,
+      "value": 1.0
+    },
+    "mean_seconds": 0.0010800693360377206,
+    "max_seconds": 0.002382249993388541,
+    "llm_calls": 0,
+    "tool_calls": 54,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "llm_errors": 0,
+    "fallbacks": {}
+  },
+  "C": {
+    "n": 9,
+    "precision_bona_fide": {
+      "num": 2,
+      "den": 2,
+      "value": 1.0
+    },
+    "recall_bona_fide": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "f1_bona_fide": {
+      "num": 4,
+      "den": 5,
+      "value": 0.8
+    },
+    "precision_presentation_attack": {
+      "num": 2,
+      "den": 5,
+      "value": 0.4
+    },
+    "recall_presentation_attack": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "f1_presentation_attack": {
+      "num": 4,
+      "den": 8,
+      "value": 0.5
+    },
+    "precision_injection_attack": {
+      "num": 1,
+      "den": 1,
+      "value": 1.0
+    },
+    "recall_injection_attack": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    },
+    "f1_injection_attack": {
+      "num": 2,
+      "den": 4,
+      "value": 0.5
+    },
+    "macro_f1": 0.6,
+    "attack_allow": {
+      "num": 0,
+      "den": 6,
+      "value": 0.0
+    },
+    "attack_reverify": {
+      "num": 4,
+      "den": 6,
+      "value": 0.6666666666666666
+    },
+    "benign_allow": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "benign_reverify": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    },
+    "benign_block": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "manual_review": {
+      "num": 1,
+      "den": 9,
+      "value": 0.1111111111111111
+    },
+    "coverage": {
+      "num": 8,
+      "den": 9,
+      "value": 0.8888888888888888
+    },
+    "selective_accuracy": {
+      "num": 5,
+      "den": 8,
+      "value": 0.625
+    },
+    "injection_as_presentation": {
+      "num": 2,
+      "den": 3,
+      "value": 0.6666666666666666
+    },
+    "attack_type_correct_given_class": {
+      "num": 3,
+      "den": 3,
+      "value": 1.0
+    },
+    "mean_confidence_correct": 0.8300000000000001,
+    "mean_confidence_wrong": 0.85,
+    "risk_high_on_attacks": {
+      "num": 2,
+      "den": 6,
+      "value": 0.3333333333333333
+    },
+    "mean_seconds": 14.435665495331502,
+    "max_seconds": 16.96877599999425,
+    "llm_calls": 9,
+    "tool_calls": 90,
+    "input_tokens": 17373,
+    "output_tokens": 1871,
+    "llm_errors": 1,
+    "fallbacks": {}
+  },
+  "T": {
+    "n": 9,
+    "precision_bona_fide": {
+      "num": 0,
+      "den": 0,
+      "value": null
+    },
+    "recall_bona_fide": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "f1_bona_fide": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "precision_presentation_attack": {
+      "num": 1,
+      "den": 5,
+      "value": 0.2
+    },
+    "recall_presentation_attack": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    },
+    "f1_presentation_attack": {
+      "num": 2,
+      "den": 8,
+      "value": 0.25
+    },
+    "precision_injection_attack": {
+      "num": 0,
+      "den": 0,
+      "value": null
+    },
+    "recall_injection_attack": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "f1_injection_attack": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "macro_f1": 0.08333333333333333,
+    "attack_allow": {
+      "num": 0,
+      "den": 6,
+      "value": 0.0
+    },
+    "attack_reverify": {
+      "num": 4,
+      "den": 6,
+      "value": 0.6666666666666666
+    },
+    "benign_allow": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "benign_reverify": {
+      "num": 1,
+      "den": 3,
+      "value": 0.3333333333333333
+    },
+    "benign_block": {
+      "num": 0,
+      "den": 3,
+      "value": 0.0
+    },
+    "manual_review": {
+      "num": 4,
+      "den": 9,
+      "value": 0.4444444444444444
+    },
+    "coverage": {
+      "num": 5,
+      "den": 9,
+      "value": 0.5555555555555556
+    },
+    "selective_accuracy": {
+      "num": 1,
+      "den": 5,
+      "value": 0.2
+    },
+    "injection_as_presentation": {
+      "num": 3,
+      "den": 3,
+      "value": 1.0
+    },
+    "attack_type_correct_given_class": {
+      "num": 1,
+      "den": 1,
+      "value": 1.0
+    },
+    "mean_confidence_correct": 0.85,
+    "mean_confidence_wrong": 0.8125,
+    "risk_high_on_attacks": {
+      "num": 0,
+      "den": 6,
+      "value": 0.0
+    },
+    "mean_seconds": 58.602293787110185,
+    "max_seconds": 72.37426924999454,
+    "llm_calls": 71,
+    "tool_calls": 139,
+    "input_tokens": 75228,
+    "output_tokens": 9536,
+    "llm_errors": 0,
+    "fallbacks": {}
+  }
+}

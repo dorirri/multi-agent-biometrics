@@ -1,0 +1,46 @@
+{
+  "n": 18,
+  "unique_media_sources": 8,
+  "counts": {
+    "presentation_attack": 6,
+    "injection_attack": 6,
+    "bona_fide": 6
+  },
+  "incident_ids": [
+    "466cfecad11e42016a4acbf48cafc3dd",
+    "841166a2962420c7d0a0d77ea2c863be",
+    "c890784c9e0844d4edee0905c9bf8d14",
+    "b90ce75e0c1acf034206f449b7145254",
+    "aafab0b56ddcd5b65521b24b20a988a8",
+    "71c6d2f1c67a0faa2fbca11f157b6636",
+    "908ed4ffed802aea883bf9eca2ff4fe1",
+    "3b42cc573a86b3bfbcf04709932e9a32",
+    "dc2e80eed9042cad04f5901bdfcc274b",
+    "33f5f7116849d1844af0e2912f529cc2",
+    "de993f2775ec7d47f9a22db866a57418",
+    "2690a6a9ff78485a4b172f93adbdd67d",
+    "1e8a13a17b9c8c512fef8f568f59d6e0",
+    "7f14fec3d0abaedd770bf174450c9622",
+    "16fe171467f0ea5e4b19a1a421c3b564",
+    "89f52cc61dc9af043f0c1492920c262c",
+    "a211407ded585a12de5c1bd082991cf6",
+    "9a6047b9f9da467d88d62d732a0e0bc8"
+  ],
+  "sources": [
+    "a00",
+    "a01",
+    "a02",
+    "a03",
+    "a04",
+    "a06",
+    "a08",
+    "a09"
+  ],
+  "stress_counts": {
+    "pad_tool_failure": 3,
+    "normal": 12,
+    "untrusted_text": 1,
+    "missing_history": 1,
+    "missing_channel": 1
+  }
+}

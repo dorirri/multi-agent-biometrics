@@ -1,0 +1,132 @@
+[
+  {
+    "source_id": "d0",
+    "split": "debug",
+    "visual_label": "live",
+    "pad_status": "ok",
+    "pad_label": "live",
+    "frames": 1,
+    "feature_seconds": 0.031895999999505875,
+    "visual_correct": true
+  },
+  {
+    "source_id": "d1",
+    "split": "debug",
+    "visual_label": "spoof",
+    "pad_status": "ok",
+    "pad_label": "spoof",
+    "frames": 1,
+    "feature_seconds": 0.014840199999525794,
+    "visual_correct": true
+  },
+  {
+    "source_id": "d2",
+    "split": "debug",
+    "visual_label": "spoof",
+    "pad_status": "ok",
+    "pad_label": "spoof",
+    "frames": 1,
+    "feature_seconds": 0.016226900000219757,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a00",
+    "split": "evaluation",
+    "visual_label": "live",
+    "pad_status": "ok",
+    "pad_label": "live",
+    "frames": 1,
+    "feature_seconds": 0.04251860000022134,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a01",
+    "split": "evaluation",
+    "visual_label": "live",
+    "pad_status": "ok",
+    "pad_label": "live",
+    "frames": 1,
+    "feature_seconds": 0.045958300000165764,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a02",
+    "split": "evaluation",
+    "visual_label": "live",
+    "pad_status": "ok",
+    "pad_label": "live",
+    "frames": 1,
+    "feature_seconds": 0.04508110000006127,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a03",
+    "split": "evaluation",
+    "visual_label": "live",
+    "pad_status": "ok",
+    "pad_label": "live",
+    "frames": 1,
+    "feature_seconds": 0.05002299999978277,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a04",
+    "split": "evaluation",
+    "visual_label": "live",
+    "pad_status": "ok",
+    "pad_label": "live",
+    "frames": 1,
+    "feature_seconds": 0.06663270000080956,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a05",
+    "split": "evaluation",
+    "visual_label": "spoof",
+    "pad_status": "ok",
+    "pad_label": "spoof",
+    "frames": 3,
+    "feature_seconds": 0.15782880000006116,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a06",
+    "split": "evaluation",
+    "visual_label": "spoof",
+    "pad_status": "ok",
+    "pad_label": "spoof",
+    "frames": 3,
+    "feature_seconds": 0.18441280000024562,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a07",
+    "split": "evaluation",
+    "visual_label": "spoof",
+    "pad_status": "ok",
+    "pad_label": "spoof",
+    "frames": 3,
+    "feature_seconds": 0.1609080999996877,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a08",
+    "split": "evaluation",
+    "visual_label": "spoof",
+    "pad_status": "ok",
+    "pad_label": "spoof",
+    "frames": 3,
+    "feature_seconds": 0.1549840999996377,
+    "visual_correct": true
+  },
+  {
+    "source_id": "a09",
+    "split": "evaluation",
+    "visual_label": "spoof",
+    "pad_status": "ok",
+    "pad_label": "spoof",
+    "frames": 3,
+    "feature_seconds": 0.15912269999989803,
+    "visual_correct": true
+  }
+]

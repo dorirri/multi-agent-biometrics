@@ -1,0 +1,23 @@
+{
+  "n": 3,
+  "incident_ids": [
+    "3f5a0f297f9d9802b993c304343d8bc6",
+    "8b2168e1990a528d038770e7aad028b6",
+    "ecd45df6722ed87a510346a914f81b2c"
+  ],
+  "counts": {
+    "presentation_attack": 2,
+    "injection_attack": 1
+  },
+  "subtypes": {
+    "print": 1,
+    "screen_replay": 1,
+    "virtual_camera": 1
+  },
+  "stress": {
+    "untrusted_text": 1,
+    "missing_history": 1,
+    "normal": 1
+  },
+  "unique_frames": 3
+}

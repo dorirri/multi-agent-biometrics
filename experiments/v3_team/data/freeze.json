@@ -1,0 +1,25 @@
+{
+  "debug_run": "v3_debug_4",
+  "max_seconds": 90.0,
+  "max_steps": 25,
+  "hashes": {
+    "experiments/v3_team/data/generation_config.json": "904662c7a7965d1bff543d7feb93e49f9383de31bfc8734826bfaa266c23dddd",
+    "experiments/v3_team/data/history.sqlite": "cb8d161ef31d71555a4597666c6432a1b9993e4b521c476833b2c220321b08f4",
+    "experiments/v3_team/data/incidents.jsonl": "ebe8a9746d8b473ec25d2862cb1c2296e8ffac5851931ef6db81ae5d6f290099",
+    "experiments/v3_team/data/ip_ranges.json": "a419bd825318e460920a6d2d5db10273aba5f8a0f2085a2cf0b1f499981f485c",
+    "experiments/v3_team/data/labels.jsonl": "db3c6f7f04979a433df968112ea6c5157c115e4961d665c61dbe0cf2904002d4",
+    "experiments/v3_team/data/signatures.json": "e2de434050a4ccb9355918ab6ffca897db29c60e1cc89c0e9def300e1897387e",
+    "experiments/v3_team/data/source_manifest.json": "f7d24eeaf3b3906c53bf481b48a4790d0955be3ba90b183bba1a3a25d881c0c5",
+    "experiments/v3_team/data/visual_cache.json": "d8d048eaf3cd9c6a12935c2e70defc2507c6da71a48e4bb63e6cf17b9137de4a",
+    "scripts/v3_prepare_oulu.py": "73fafc27bb77dfc712067a09f8bdb9e99ca6eeb6dcf621b1eae8e7676b97b00d",
+    "scripts/v3_run.py": "72f515ee926f174a3b673f6e0e76feb3f9ddbaf6e298aef99d6f207da5f67b58",
+    "triage/team/__init__.py": "c3faecc8acd82bc855a78fb5bdcadcaed007326cb5811fe7bbdab0c5288e23c7",
+    "triage/team/agents.py": "05993b0a4a076f58d52ca111fad310f925c57751fedc09b37caba976c8994461",
+    "triage/team/baselines.py": "a5fcc2d08a5f18375321701d786a5bf1c60ac8df830a0cf750e6146c076c1ebb",
+    "triage/team/llm.py": "4110858b89a3be3e54dedbcab5c43b449fa16402825f11358bca70fb244bbab3",
+    "triage/team/schemas.py": "42a837e1e093d45a2ad424356ac0c802e9719007645207043eeb941dca2f323d",
+    "triage/team/store.py": "b02710c8f1fdc68075997f5dec24a6f84cc418267f7d80f03a4d221759069306",
+    "triage/team/tools.py": "d85781e768d7a72cef691fb614be7236271965b8a6b73fc7bf1925bb8a990073"
+  },
+  "frozen_utc": "2026-11-02T12:28:57Z"
+}

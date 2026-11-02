@@ -1,0 +1,4 @@
+﻿method,matched_n,new_unsafe_allow,eliminated_unsafe_allow,coordination_review_to_unsafe_allow,v1_unsafe_allow,v2_unsafe_allow
+C,18,0,3,0,7,4
+D,18,0,0,0,0,0
+E,18,5,1,5,1,5

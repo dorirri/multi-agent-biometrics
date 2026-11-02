@@ -1,0 +1,36 @@
+{
+  "model": "Qwen2.5-1.5B-Instruct",
+  "quantization": "Q4_K_M",
+  "model_revision": "91cad51170dc346986eccefdc2dd33a9da36ead9",
+  "runtime_release": "b12032",
+  "records": [
+    {
+      "path": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+      "bytes": 1117320736,
+      "sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+      "download_seconds": 73.529
+    },
+    {
+      "path": "downloads/llama-b12032-bin-win-cpu-x64.zip",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-cpu-x64.zip",
+      "bytes": 24582754,
+      "sha256": "5296f5d18bb7d422c7c26f4bb9bc796d9d4f41e1312a8c296cff475bdc60d0d4",
+      "download_seconds": 1.387
+    },
+    {
+      "path": "docs/third_party/QWEN_LICENSE.txt",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/LICENSE",
+      "bytes": 11343,
+      "sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e",
+      "download_seconds": 0.003
+    },
+    {
+      "path": "docs/third_party/LLAMA_CPP_LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/b12032/LICENSE",
+      "bytes": 1078,
+      "sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d",
+      "download_seconds": 0.008
+    }
+  ]
+}

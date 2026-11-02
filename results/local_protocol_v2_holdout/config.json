@@ -1,0 +1,124 @@
+{
+  "run_id": "local_protocol_v2_holdout",
+  "split": "holdout",
+  "methods": [
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "protocol_version": 2,
+  "original_behavior_unchanged": true,
+  "holdout_freeze": {
+    "frozen_utc": "2026-11-02T08:43:22Z",
+    "before_first_evaluation_call": true,
+    "n": 18,
+    "class_counts": {
+      "bona_fide": 6,
+      "presentation_attack": 6,
+      "injection_attack": 6
+    },
+    "media_sources": 8,
+    "generator_seed": 20261102,
+    "behavior_hashes": {
+      "triage/agents.py": "ffef29b829ec30aa1ee41af75ed642c6000c112c0db7c45f2c1efc79ebcdb8c2",
+      "triage/evidence.py": "e59013febcfb361821e9a1fa4344a1b1976aa7fbdac5d7a2a3f6242ef9592e4e",
+      "triage/io.py": "255d136898f8cf597a05069e7ce6ba2302a0553d52365920f10dd201c92b540b",
+      "triage/metrics.py": "d7d360b8874affcf9bc2f6139f3b2795991c16641decf43ad4df6b5d793910d3",
+      "triage/pad.py": "062fc74a65fb3c469c877e5be97209c9f245a0312303672b29be783e33021b11",
+      "triage/protocol_v2.py": "d85c9f4ec0143f33787be58abda8197675d660464b63b2f22847aeeaaab9c805",
+      "triage/rules.py": "c605512164a172b83ab24d857d72333215bc575ff3f2d5963f1ee0816d53fcf5",
+      "triage/schemas.py": "0e79b65c3ddfc3c6b0853299b509850a21b2cd0467ea1ce03ee8018a1f291bdc",
+      "triage/__init__.py": "ead19721206b625d83ae38bb89242ca4135f5b14bac81668339567ad4ffd42b6",
+      "scripts/generate.py": "18875745065bc2a13f482faaf5f6c65a6d9b9ebef3dd3f335ab6393de539c116",
+      "scripts/prepare_holdout.py": "c9162179b1b03265a2b4c5446f1aaf66aa3633e3b2388f620d9e0c2e6b1d3cfe",
+      "scripts/run_holdout.py": "a9ae51ef6ac79ecf46a290a75f135769fdb734c658c0adf84f3362198669adbd"
+    },
+    "original_v2_freeze_sha256": "122f70d1561cfa01c20ac0eaa4e5d3585e3eaedcf29a63581a37c2b438846a1e",
+    "input_hashes": {
+      "experiments/local_protocol_v2_holdout/data/discovery.json": "86385d20ff8a2b95d24d0e4e83fe20fad86c5061903440044b6da4b6784d5bfb",
+      "experiments/local_protocol_v2_holdout/data/frame_manifest.json": "51c8cff4224103fc662d6abc62259fb96d36f51cab4b7a61d0d74b8558d1ccc5",
+      "experiments/local_protocol_v2_holdout/data/generation_config.json": "97d4a634ba5438c34ce1a390406f57d90c172a272147db42ad20d61590046fb0",
+      "experiments/local_protocol_v2_holdout/data/incidents.jsonl": "9d5eacd4d6352b8182fdf419fa92ddc127f5b2182b1fd6533357bee3d02d2300",
+      "experiments/local_protocol_v2_holdout/data/labels.jsonl": "dedab2b527fbe39937f492af9fc7e9ed467fffd15cc52a84cc2ab949ac6e7993",
+      "experiments/local_protocol_v2_holdout/data/overlap_audit.json": "9c5476569b361d0f7601c57a6ab0490bf9561fcb731b2bab9619da729030d8ec",
+      "experiments/local_protocol_v2_holdout/data/source_manifest.json": "faf397b180cd88edd51ffdb52b903d81232936dcb25007c908e387e3cbbfada0",
+      "experiments/local_protocol_v2_holdout/data/visual_cache.json": "dd6467e139c52ae53323c754971a0be1df9b439b2718181b8def45c3d82df42c",
+      "docs/holdout_protocol.md": "0f1cb7492324e1ff45ac118e40c1773b2668e8274c2120cf8aed52fc0c72f8f0"
+    },
+    "new_data_only": true,
+    "source_and_scenario_names_filtered_from_agent_input": true
+  },
+  "model": "qwen2.5-1.5b-instruct-q4_k_m",
+  "model_manifest": {
+    "model": "Qwen2.5-1.5B-Instruct",
+    "quantization": "Q4_K_M",
+    "model_revision": "91cad51170dc346986eccefdc2dd33a9da36ead9",
+    "runtime_release": "b12032",
+    "records": [
+      {
+        "path": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+        "bytes": 1117320736,
+        "sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+        "download_seconds": 73.529
+      },
+      {
+        "path": "downloads/llama-b12032-bin-win-cpu-x64.zip",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-cpu-x64.zip",
+        "bytes": 24582754,
+        "sha256": "5296f5d18bb7d422c7c26f4bb9bc796d9d4f41e1312a8c296cff475bdc60d0d4",
+        "download_seconds": 1.387
+      },
+      {
+        "path": "docs/third_party/QWEN_LICENSE.txt",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/LICENSE",
+        "bytes": 11343,
+        "sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e",
+        "download_seconds": 0.003
+      },
+      {
+        "path": "docs/third_party/LLAMA_CPP_LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/b12032/LICENSE",
+        "bytes": 1078,
+        "sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d",
+        "download_seconds": 0.008
+      }
+    ]
+  },
+  "server_parameters": {
+    "runtime": "llama.cpp",
+    "release": "b12032",
+    "version": "0.8.0-dev",
+    "commit": "dde879bc4",
+    "cpu_threads": 6,
+    "batch_threads": 6,
+    "gpu_layers": 0,
+    "context_tokens": 8192,
+    "parallel_slots": 1,
+    "seed": 8217,
+    "host": "127.0.0.1",
+    "port": 8080,
+    "alias": "qwen2.5-1.5b-instruct-q4_k_m",
+    "model_path": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+    "temperature_per_request": 0,
+    "max_tokens_per_request": 600,
+    "timeout_seconds": 40,
+    "cost_api_usd": 0,
+    "prefix_cache": "runtime default; fixed sequential method order",
+    "server_log_directory": "results/local_feasibility"
+  },
+  "actual_server_logs": "results/holdout_server",
+  "python": "3.11.9",
+  "temperature": 0,
+  "seed": 8217,
+  "max_tokens_per_call": 600,
+  "timeout_seconds": 40,
+  "max_llm_calls_per_method": 4,
+  "max_checks_per_method": 1,
+  "max_calls_run": 162,
+  "run_budget_seconds": 1800,
+  "reserve_before_next_method_seconds": 160,
+  "cost_usd": 0,
+  "started_utc": "2026-11-02T08:43:48Z"
+}

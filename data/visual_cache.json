@@ -1,0 +1,647 @@
+{
+  "d0": {
+    "status": "ok",
+    "values": {
+      "pad_label": "live",
+      "live_score": 0.9862422943115234,
+      "frame_count": 1,
+      "valid_frame_count": 1,
+      "live_score_range": 0.0,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 0,
+        "status": "ok",
+        "values": {
+          "pad_label": "live",
+          "live_score": 0.9862422943115234,
+          "softmax": [
+            0.00014622801973018795,
+            0.9862422943115234,
+            0.013611414469778538
+          ],
+          "face_count": 1,
+          "detector_score": 0.984155535697937,
+          "blur_laplacian_var": 473.01237929401424,
+          "brightness": 117.35913558467742,
+          "scores_calibrated": false
+        },
+        "seconds": 0.027866800000083458
+      }
+    ],
+    "feature_seconds": 0.031895999999505875,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "f4455149f488f76205fdee5499ec5261d08ef6279a1cff7b778ea85405331e94"
+  },
+  "d1": {
+    "status": "ok",
+    "values": {
+      "pad_label": "spoof",
+      "live_score": 0.0014307411620393395,
+      "frame_count": 1,
+      "valid_frame_count": 1,
+      "live_score_range": 0.0,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 0,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.0014307411620393395,
+          "softmax": [
+            0.07600519061088562,
+            0.0014307411620393395,
+            0.9225640296936035
+          ],
+          "face_count": 1,
+          "detector_score": 0.9924220442771912,
+          "blur_laplacian_var": 112.50585454067513,
+          "brightness": 114.39411730945822,
+          "scores_calibrated": false
+        },
+        "seconds": 0.011527700000442564
+      }
+    ],
+    "feature_seconds": 0.014840199999525794,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "4b11b5d7a8a8e4a88f5f16a5426a0a7692e39e5bb45bb03b4ebe5e1606336860"
+  },
+  "d2": {
+    "status": "ok",
+    "values": {
+      "pad_label": "spoof",
+      "live_score": 0.0006569796823896468,
+      "frame_count": 1,
+      "valid_frame_count": 1,
+      "live_score_range": 0.0,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 0,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.0006569796823896468,
+          "softmax": [
+            0.0001889919221866876,
+            0.0006569796823896468,
+            0.9991539716720581
+          ],
+          "face_count": 1,
+          "detector_score": 0.9913158416748047,
+          "blur_laplacian_var": 381.23390501610567,
+          "brightness": 113.89851719034608,
+          "scores_calibrated": false
+        },
+        "seconds": 0.01207460000023275
+      }
+    ],
+    "feature_seconds": 0.016226900000219757,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "fbbea73450ae9d9bb555c8ccac77bf39d234261fe3be4190e3ed2999690c485f"
+  },
+  "a00": {
+    "status": "ok",
+    "values": {
+      "pad_label": "live",
+      "live_score": 0.9986513257026672,
+      "frame_count": 1,
+      "valid_frame_count": 1,
+      "live_score_range": 0.0,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 0,
+        "status": "ok",
+        "values": {
+          "pad_label": "live",
+          "live_score": 0.9986513257026672,
+          "softmax": [
+            3.759871833608486e-05,
+            0.9986513257026672,
+            0.0013110251165926456
+          ],
+          "face_count": 1,
+          "detector_score": 0.9253525733947754,
+          "blur_laplacian_var": 90.52526141184833,
+          "brightness": 190.8287540929928,
+          "scores_calibrated": false
+        },
+        "seconds": 0.032407799999418785
+      }
+    ],
+    "feature_seconds": 0.04251860000022134,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "8d5d8711c5f4bedeee37e789cf755fda45c8fb8e8713e63e97fce1fb633ca5b6"
+  },
+  "a01": {
+    "status": "ok",
+    "values": {
+      "pad_label": "live",
+      "live_score": 0.9999836683273315,
+      "frame_count": 1,
+      "valid_frame_count": 1,
+      "live_score_range": 0.0,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 0,
+        "status": "ok",
+        "values": {
+          "pad_label": "live",
+          "live_score": 0.9999836683273315,
+          "softmax": [
+            1.015072029986186e-05,
+            0.9999836683273315,
+            6.2299022829392925e-06
+          ],
+          "face_count": 1,
+          "detector_score": 0.9469999670982361,
+          "blur_laplacian_var": 1623.149597661721,
+          "brightness": 109.96446234567901,
+          "scores_calibrated": false
+        },
+        "seconds": 0.035937500000727596
+      }
+    ],
+    "feature_seconds": 0.045958300000165764,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "553d29f87463180df124cfbd4a79b2b6b8caad0a353bfbb9859f78231da9b3fe"
+  },
+  "a02": {
+    "status": "ok",
+    "values": {
+      "pad_label": "live",
+      "live_score": 0.9995881915092468,
+      "frame_count": 1,
+      "valid_frame_count": 1,
+      "live_score_range": 0.0,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 0,
+        "status": "ok",
+        "values": {
+          "pad_label": "live",
+          "live_score": 0.9995881915092468,
+          "softmax": [
+            2.9187875043135136e-05,
+            0.9995881915092468,
+            0.00038263568421825767
+          ],
+          "face_count": 1,
+          "detector_score": 0.7675643563270569,
+          "blur_laplacian_var": 38.409846382277685,
+          "brightness": 175.0721496969697,
+          "scores_calibrated": false
+        },
+        "seconds": 0.038529299999936484
+      }
+    ],
+    "feature_seconds": 0.04508110000006127,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "80caee99b247d7ac32024b6c7d4432e89a108831c404a9f410b81e16c6d83365"
+  },
+  "a03": {
+    "status": "ok",
+    "values": {
+      "pad_label": "live",
+      "live_score": 0.9986955523490906,
+      "frame_count": 1,
+      "valid_frame_count": 1,
+      "live_score_range": 0.0,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 0,
+        "status": "ok",
+        "values": {
+          "pad_label": "live",
+          "live_score": 0.9986955523490906,
+          "softmax": [
+            1.1399472896300722e-05,
+            0.9986955523490906,
+            0.001293077482841909
+          ],
+          "face_count": 1,
+          "detector_score": 0.9901620149612427,
+          "blur_laplacian_var": 109.10239451891933,
+          "brightness": 143.05571519188075,
+          "scores_calibrated": false
+        },
+        "seconds": 0.03834889999961888
+      }
+    ],
+    "feature_seconds": 0.05002299999978277,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "d290a27b901c16241f20584e4946402d810c153be1e3961b5f610cec032df61f"
+  },
+  "a04": {
+    "status": "ok",
+    "values": {
+      "pad_label": "live",
+      "live_score": 0.9979568719863892,
+      "frame_count": 1,
+      "valid_frame_count": 1,
+      "live_score_range": 0.0,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 0,
+        "status": "ok",
+        "values": {
+          "pad_label": "live",
+          "live_score": 0.9979568719863892,
+          "softmax": [
+            3.448560164542869e-05,
+            0.9979568719863892,
+            0.0020086367148905993
+          ],
+          "face_count": 1,
+          "detector_score": 0.9956583976745605,
+          "blur_laplacian_var": 80.57515802073105,
+          "brightness": 129.01075024390244,
+          "scores_calibrated": false
+        },
+        "seconds": 0.05213180000009743
+      }
+    ],
+    "feature_seconds": 0.06663270000080956,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "1cd2c418be7302bebab9bb47fd9c64e48bf43073a558fbc03b80f200d4c9d568"
+  },
+  "a05": {
+    "status": "ok",
+    "values": {
+      "pad_label": "spoof",
+      "live_score": 2.970095245776368e-05,
+      "frame_count": 3,
+      "valid_frame_count": 3,
+      "live_score_range": 5.074914247416018e-05,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 86,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 3.282139732618816e-05,
+          "softmax": [
+            0.001939784036949277,
+            3.282139732618816e-05,
+            0.9980273842811584
+          ],
+          "face_count": 1,
+          "detector_score": 0.9988627433776855,
+          "blur_laplacian_var": 43.112500130293185,
+          "brightness": 130.4732470981502,
+          "scores_calibrated": false
+        },
+        "seconds": 0.04593230000045878
+      },
+      {
+        "frame_index": 215,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 5.351530126063153e-05,
+          "softmax": [
+            0.00038251825026236475,
+            5.351530126063153e-05,
+            0.999563992023468
+          ],
+          "face_count": 1,
+          "detector_score": 0.9971334934234619,
+          "blur_laplacian_var": 30.98129520290407,
+          "brightness": 130.1765368841657,
+          "scores_calibrated": false
+        },
+        "seconds": 0.03840970000055677
+      },
+      {
+        "frame_index": 344,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 2.766158786471351e-06,
+          "softmax": [
+            0.0009685955592431128,
+            2.766158786471351e-06,
+            0.9990286827087402
+          ],
+          "face_count": 1,
+          "detector_score": 0.9996044039726257,
+          "blur_laplacian_var": 39.71602997681465,
+          "brightness": 122.63559607830442,
+          "scores_calibrated": false
+        },
+        "seconds": 0.04097949999959383
+      }
+    ],
+    "feature_seconds": 0.15782880000006116,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "6ae0a2c17dfca287c552fc830c2bea9d167d17c014550ad01fd5f14ef79dab8b"
+  },
+  "a06": {
+    "status": "ok",
+    "values": {
+      "pad_label": "spoof",
+      "live_score": 0.0029394044734848044,
+      "frame_count": 3,
+      "valid_frame_count": 3,
+      "live_score_range": 0.005217433848883957,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 90,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.005761786829680204,
+          "softmax": [
+            0.38798752427101135,
+            0.005761786829680204,
+            0.6062506437301636
+          ],
+          "face_count": 1,
+          "detector_score": 0.9972078204154968,
+          "blur_laplacian_var": 64.09821770102606,
+          "brightness": 113.00312630886137,
+          "scores_calibrated": false
+        },
+        "seconds": 0.04179000000021915
+      },
+      {
+        "frame_index": 225,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.0025120736099779606,
+          "softmax": [
+            0.392025887966156,
+            0.0025120736099779606,
+            0.6054620146751404
+          ],
+          "face_count": 1,
+          "detector_score": 0.9998444318771362,
+          "blur_laplacian_var": 47.477216164410265,
+          "brightness": 111.16570792975826,
+          "scores_calibrated": false
+        },
+        "seconds": 0.05602460000045539
+      },
+      {
+        "frame_index": 360,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.0005443529807962477,
+          "softmax": [
+            0.010570164769887924,
+            0.0005443529807962477,
+            0.9888855218887329
+          ],
+          "face_count": 1,
+          "detector_score": 0.999861478805542,
+          "blur_laplacian_var": 64.35278879029414,
+          "brightness": 110.02904880677015,
+          "scores_calibrated": false
+        },
+        "seconds": 0.048691900000449095
+      }
+    ],
+    "feature_seconds": 0.18441280000024562,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "4f614c8e32436a60fbae6c9f46f20509030d68af04f2d5c7a79e735c4451a4d1"
+  },
+  "a07": {
+    "status": "ok",
+    "values": {
+      "pad_label": "spoof",
+      "live_score": 0.0011359326138820809,
+      "frame_count": 3,
+      "valid_frame_count": 3,
+      "live_score_range": 0.003196909703547135,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 93,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.003255121875554323,
+          "softmax": [
+            0.2297452986240387,
+            0.003255121875554323,
+            0.7669995427131653
+          ],
+          "face_count": 1,
+          "detector_score": 0.9993420243263245,
+          "blur_laplacian_var": 10.741009034005364,
+          "brightness": 111.19936820526995,
+          "scores_calibrated": false
+        },
+        "seconds": 0.044006899999658344
+      },
+      {
+        "frame_index": 232,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 9.446379408473149e-05,
+          "softmax": [
+            0.0004451952700037509,
+            9.446379408473149e-05,
+            0.9994603991508484
+          ],
+          "face_count": 1,
+          "detector_score": 0.9829798936843872,
+          "blur_laplacian_var": 14.243681044661262,
+          "brightness": 124.77568445896877,
+          "scores_calibrated": false
+        },
+        "seconds": 0.04487729999982548
+      },
+      {
+        "frame_index": 372,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 5.82121720071882e-05,
+          "softmax": [
+            0.0003459631698206067,
+            5.82121720071882e-05,
+            0.9995958209037781
+          ],
+          "face_count": 1,
+          "detector_score": 0.9867265224456787,
+          "blur_laplacian_var": 13.184776262687251,
+          "brightness": 118.69700603806135,
+          "scores_calibrated": false
+        },
+        "seconds": 0.042189499999949476
+      }
+    ],
+    "feature_seconds": 0.1609080999996877,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "3fd142ef47112e73283c945e02b4581cdca101812c21dc1b026df4d4d775b1a7"
+  },
+  "a08": {
+    "status": "ok",
+    "values": {
+      "pad_label": "spoof",
+      "live_score": 0.022582242381758988,
+      "frame_count": 3,
+      "valid_frame_count": 3,
+      "live_score_range": 0.04693134094122797,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 94,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.0181258674710989,
+          "softmax": [
+            0.25050562620162964,
+            0.0181258674710989,
+            0.7313684821128845
+          ],
+          "face_count": 1,
+          "detector_score": 0.9995848536491394,
+          "blur_laplacian_var": 9.863744652095505,
+          "brightness": 116.63282147030432,
+          "scores_calibrated": false
+        },
+        "seconds": 0.042455900000277325
+      },
+      {
+        "frame_index": 235,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.04827610030770302,
+          "softmax": [
+            0.10842609405517578,
+            0.04827610030770302,
+            0.8432978391647339
+          ],
+          "face_count": 1,
+          "detector_score": 0.9996446371078491,
+          "blur_laplacian_var": 11.620597430813133,
+          "brightness": 116.0121836485088,
+          "scores_calibrated": false
+        },
+        "seconds": 0.04007149999961257
+      },
+      {
+        "frame_index": 376,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.0013447593664750457,
+          "softmax": [
+            0.0021788915619254112,
+            0.0013447593664750457,
+            0.9964763522148132
+          ],
+          "face_count": 1,
+          "detector_score": 0.9997864365577698,
+          "blur_laplacian_var": 10.305505347509001,
+          "brightness": 113.89410409267715,
+          "scores_calibrated": false
+        },
+        "seconds": 0.041696900000715686
+      }
+    ],
+    "feature_seconds": 0.1549840999996377,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "5975d7d6317a71c7d9c9ebb90481f3e0eecbe94dda2530cb2394fc35ad29b3dc"
+  },
+  "a09": {
+    "status": "ok",
+    "values": {
+      "pad_label": "spoof",
+      "live_score": 0.029759241733700037,
+      "frame_count": 3,
+      "valid_frame_count": 3,
+      "live_score_range": 0.04527565883472562,
+      "scores_calibrated": false
+    },
+    "frames": [
+      {
+        "frame_index": 93,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.03290065750479698,
+          "softmax": [
+            0.0003450157819315791,
+            0.03290065750479698,
+            0.9667542576789856
+          ],
+          "face_count": 1,
+          "detector_score": 0.9988778233528137,
+          "blur_laplacian_var": 30.81698097951956,
+          "brightness": 125.23963995373073,
+          "scores_calibrated": false
+        },
+        "seconds": 0.0398827999997593
+      },
+      {
+        "frame_index": 233,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.050826363265514374,
+          "softmax": [
+            0.0002933009818661958,
+            0.050826363265514374,
+            0.9488803744316101
+          ],
+          "face_count": 1,
+          "detector_score": 0.9990701079368591,
+          "blur_laplacian_var": 34.85556149354602,
+          "brightness": 132.14891376532324,
+          "scores_calibrated": false
+        },
+        "seconds": 0.04070940000019618
+      },
+      {
+        "frame_index": 372,
+        "status": "ok",
+        "values": {
+          "pad_label": "spoof",
+          "live_score": 0.005550704430788755,
+          "softmax": [
+            0.00028150746948085725,
+            0.005550704430788755,
+            0.9941678047180176
+          ],
+          "face_count": 1,
+          "detector_score": 0.9996336698532104,
+          "blur_laplacian_var": 30.987703178154458,
+          "brightness": 128.45848568426584,
+          "scores_calibrated": false
+        },
+        "seconds": 0.04651929999999993
+      }
+    ],
+    "feature_seconds": 0.15912269999989803,
+    "model_sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "source_sha256": "58395d929619bac5ad5e723f19c934b0522ad3258e763e138461931014303b9b"
+  }
+}

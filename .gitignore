@@ -1,0 +1,12 @@
+.runtime/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.cache/
+downloads/
+data/media/
+models/
+*.zip

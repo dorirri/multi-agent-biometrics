@@ -1,0 +1,7 @@
+{
+  "split": "debug",
+  "incident_ids": [
+    "096d1f0c885624a1891ca1d0b481f776"
+  ],
+  "selection": "First lexicographic complete debug input, before LLM response"
+}

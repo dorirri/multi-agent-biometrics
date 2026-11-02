@@ -1,0 +1,50 @@
+{
+  "run_id": "debug_ab_v1",
+  "split": "debug",
+  "methods": [
+    "A",
+    "B"
+  ],
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "versions": {
+    "numpy": "2.2.6",
+    "opencv-python-headless": "4.12.0.88",
+    "onnxruntime": "1.23.2",
+    "pydantic": "2.12.5",
+    "matplotlib": "3.10.8",
+    "pytest": "9.0.2"
+  },
+  "llm_model": null,
+  "llm_base_url_configured": false,
+  "api_price_verified": false,
+  "cost_usd": 0,
+  "temperature": 0,
+  "max_calls_per_method": 4,
+  "max_completion_tokens_per_call": 600,
+  "max_completion_tokens_per_method": 2400,
+  "timeout_seconds": 40,
+  "max_api_calls_run": 100,
+  "pilot_run": null,
+  "hashes": {
+    "triage\\agents.py": "add80922eacf06bd5d0b6b3ca3802ab68f11fa23ffcdc4b8a19af96efd1903b6",
+    "triage\\evidence.py": "e59013febcfb361821e9a1fa4344a1b1976aa7fbdac5d7a2a3f6242ef9592e4e",
+    "triage\\io.py": "255d136898f8cf597a05069e7ce6ba2302a0553d52365920f10dd201c92b540b",
+    "triage\\metrics.py": "d7d360b8874affcf9bc2f6139f3b2795991c16641decf43ad4df6b5d793910d3",
+    "triage\\pad.py": "062fc74a65fb3c469c877e5be97209c9f245a0312303672b29be783e33021b11",
+    "triage\\rules.py": "c605512164a172b83ab24d857d72333215bc575ff3f2d5963f1ee0816d53fcf5",
+    "triage\\schemas.py": "0e79b65c3ddfc3c6b0853299b509850a21b2cd0467ea1ce03ee8018a1f291bdc",
+    "triage\\__init__.py": "ead19721206b625d83ae38bb89242ca4135f5b14bac81668339567ad4ffd42b6",
+    "scripts\\download.py": "c1aafac245f5495b69dd4557acc8ce6dbb5d6692da18e90950b97c2a5ae3c760",
+    "scripts\\generate.py": "18875745065bc2a13f482faaf5f6c65a6d9b9ebef3dd3f335ab6393de539c116",
+    "scripts\\package.py": "f06868bfaa148bfd5a760907d69ea04341feaff9780fb586d0e2e10007658d6d",
+    "scripts\\report.py": "f06ebbe9162999c8c32f756af48224d2f7dbb2a0bc9b336b98c9bdcadb4c8f90",
+    "scripts\\run.py": "75bec49af59c0a37c51e4f1e9677243569c60f55db044eeac5e6f21c16420bfc",
+    "docs\\experiment_protocol.md": "c529a4b98adf0e83c23f9fb98b278f9f8e0e34d3420b90b43abef656f4ead5ac",
+    "requirements.txt": "2dd322b30f1244b42602a9f9140b3c14dedcdb80486221577be7e31a5a5c22fb",
+    "data\\incidents.jsonl": "67c720abeb8624e8a90e4c411c0592c4e8c7019f3823cc2d38bc1663d0b6c6d1",
+    "data\\labels.jsonl": "37acadcb1d39f133c94eee711bc110ed4ec1444584249a70cdff1e88a2fa3852",
+    "data\\visual_cache.json": "036c0b3df1af0aea05cf9d8884bddd91c40f99ded2d986c75edfe3044ecbcacc"
+  },
+  "started_utc": "2026-11-01T19:42:09Z"
+}

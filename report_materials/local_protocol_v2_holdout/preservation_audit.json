@@ -1,0 +1,9 @@
+{
+  "original_files_checked": 257,
+  "unexpected_changes": [],
+  "original_STATUS_saved": "report_materials/local_protocol_v2_holdout/STATUS_before_holdout.md",
+  "before_state_snapshot": "snapshots/protocol_v2_before_holdout.zip",
+  "v2_frozen_behavior_unchanged": true,
+  "holdout_behavior_unchanged": true,
+  "holdout_inputs_unchanged": true
+}

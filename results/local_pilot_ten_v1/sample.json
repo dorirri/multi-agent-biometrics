@@ -1,0 +1,33 @@
+{
+  "n": 10,
+  "unique_media_sources": 3,
+  "counts": {
+    "presentation_attack": 3,
+    "injection_attack": 3,
+    "bona_fide": 4
+  },
+  "incident_ids": [
+    "7d8a43bb1f7e5b01110ff78479209dde",
+    "e83ef0c38748a6ab45986ca9fd961858",
+    "d874fa9edc8fdf2dadadbe55d3bff06c",
+    "c24ac957504a455f26a73f5d12aa1e79",
+    "096d1f0c885624a1891ca1d0b481f776",
+    "3a74382dc26fd6dc5498373aa0293bfb",
+    "9d806668f2c5e67f085ac8731e10341a",
+    "48ad37672cc945d644bd1b312196ac77",
+    "92decf03d1b76892facafcd967f80dfe",
+    "98cb439aa919ab2fed9301ba86debda3"
+  ],
+  "sources": [
+    "d0",
+    "d1",
+    "d2"
+  ],
+  "stress_counts": {
+    "untrusted_text": 1,
+    "normal": 6,
+    "pad_tool_failure": 1,
+    "missing_channel": 1,
+    "missing_history": 1
+  }
+}

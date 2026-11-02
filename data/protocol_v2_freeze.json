@@ -1,0 +1,26 @@
+{
+  "frozen_utc": "2026-11-02T06:21:57Z",
+  "after_debug_before_evaluation": true,
+  "hashes": {
+    "triage/protocol_v2.py": "d85c9f4ec0143f33787be58abda8197675d660464b63b2f22847aeeaaab9c805",
+    "triage/agents.py": "ffef29b829ec30aa1ee41af75ed642c6000c112c0db7c45f2c1efc79ebcdb8c2",
+    "triage/schemas.py": "0e79b65c3ddfc3c6b0853299b509850a21b2cd0467ea1ce03ee8018a1f291bdc",
+    "triage/rules.py": "c605512164a172b83ab24d857d72333215bc575ff3f2d5963f1ee0816d53fcf5",
+    "triage/evidence.py": "e59013febcfb361821e9a1fa4344a1b1976aa7fbdac5d7a2a3f6242ef9592e4e",
+    "triage/metrics.py": "d7d360b8874affcf9bc2f6139f3b2795991c16641decf43ad4df6b5d793910d3",
+    "scripts/run_protocol_v2.py": "dcec958bf48b7548f3915f604a560a664742ceaab2656991cec1d610a37a55ea",
+    "scripts/freeze_protocol_v2.py": "2ae2d08243816140a8512791d5507d8606b3389c65db203415504f22e32111f6",
+    "tests/test_protocol_v2.py": "66bd8c4615bae4c90ca0b5ea4be14a4b7230f23e41587da18051d5df703c599c",
+    "docs/protocol_v2_plan.md": "2862804f9a34a956e4403a16fee742b4fd81336155398036502f52d105905a04",
+    "data/incidents.jsonl": "67c720abeb8624e8a90e4c411c0592c4e8c7019f3823cc2d38bc1663d0b6c6d1",
+    "data/labels.jsonl": "37acadcb1d39f133c94eee711bc110ed4ec1444584249a70cdff1e88a2fa3852",
+    "data/visual_cache.json": "036c0b3df1af0aea05cf9d8884bddd91c40f99ded2d986c75edfe3044ecbcacc",
+    "data/local_evaluation_selection.json": "bcfa67f9dd85d5fbbea0d0410c3916049acee43c2a0610624a31e348e99e948b",
+    "data/local_backend_manifest.json": "3168768055ff560000f8c09ac43e18ef3e1c0cc27716fbf95b68d7f3d7ca6567",
+    "data/local_server_config.json": "09cee0a5bb34245c92a748a49fcba7b2ecad2371693c1e9c720956c6d048b691",
+    "data/protocol_v2_debug_selection.json": "b55cb17dbf1a0bfc4e41c4dd263574bfd7d503730477b810bd4749efee0101aa",
+    "data/protocol_v2_initial.schema.json": "da1e4d6261487e01263a38bed70d8522d56b3e735f244e0470c6cc58fa0d76dd",
+    "data/protocol_v2_final.schema.json": "4387e88b4de2e191039e24fe326b01aa3dfdf7b76204fa5e66238952b93e7141",
+    "data/protocol_v2_prompts.json": "7ad8726fc93a84f0a4f9bb559e18d5726ba3f50034e9dca708bbdee5a49f8fcc"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "seed": 20261102,
+  "n": 18,
+  "per_class": 6,
+  "unique_sources": 8,
+  "generator_source": "scripts/generate.py",
+  "generator_sha256": "18875745065bc2a13f482faaf5f6c65a6d9b9ebef3dd3f335ab6393de539c116",
+  "only_parameterization": "cohort loop [('debug',10),('evaluation',60)] -> [('holdout',18)]; ROOT/output directory; random scenario logic unchanged",
+  "rng_warmup_debug_removed": true,
+  "synthetic_fields": [
+    "delivery scenario",
+    "channel",
+    "history",
+    "client note",
+    "controlled tool fault"
+  ],
+  "no_model_output_selection": true
+}

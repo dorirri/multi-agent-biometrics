@@ -1,0 +1,162 @@
+{
+  "A": {
+    "rows": [
+      "live",
+      "spoof"
+    ],
+    "columns": [
+      "live",
+      "spoof",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 1
+  },
+  "B": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 1
+  },
+  "C": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 1
+  },
+  "D": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 1
+  },
+  "E": {
+    "rows": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack"
+    ],
+    "columns": [
+      "bona_fide",
+      "presentation_attack",
+      "injection_attack",
+      "manual_review"
+    ],
+    "counts": [
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "n": 1
+  }
+}

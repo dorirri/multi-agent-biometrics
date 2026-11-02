@@ -1,0 +1,98 @@
+[
+  {
+    "source_id": "h00",
+    "frame_index": 0,
+    "path": "downloads/holdout_frames/h00_0.jpg",
+    "sha256": "b1fa21b8755f84cd1584d3f4a4f64bc73dd23526da02189d8b61d1c2af84d0bf"
+  },
+  {
+    "source_id": "h01",
+    "frame_index": 0,
+    "path": "downloads/holdout_frames/h01_0.jpg",
+    "sha256": "b7e93b5107e2f382b380c524e2dd376f6cd2d8cf83604c376b43942757ac170e"
+  },
+  {
+    "source_id": "h02",
+    "frame_index": 0,
+    "path": "downloads/holdout_frames/h02_0.jpg",
+    "sha256": "a4ba44161fddf98702247d8a7ffa3860e39a1703960053a3ff16e8a1d75fa84d"
+  },
+  {
+    "source_id": "h03",
+    "frame_index": 0,
+    "path": "downloads/holdout_frames/h03_0.jpg",
+    "sha256": "eb659d90c0a20fbe89715486a2c3fe6bdfb9d3311a08f380ae350d892fce38c6"
+  },
+  {
+    "source_id": "h04",
+    "frame_index": 27,
+    "path": "downloads/holdout_frames/h04_27.jpg",
+    "sha256": "33bc176f6f1c89a4328567cad3b448183326652f96363cbb09b5ed7f9e45e5b1"
+  },
+  {
+    "source_id": "h04",
+    "frame_index": 68,
+    "path": "downloads/holdout_frames/h04_68.jpg",
+    "sha256": "8d9bb9631ad57d5a75921b1876dd2db24a9012d4a0bd2cc15256fcc6e3024c78"
+  },
+  {
+    "source_id": "h04",
+    "frame_index": 108,
+    "path": "downloads/holdout_frames/h04_108.jpg",
+    "sha256": "413ae6969abd4e1b1c64eaeeb109d767c25a2e1fd97a92137a8289aeeff8f446"
+  },
+  {
+    "source_id": "h05",
+    "frame_index": 76,
+    "path": "downloads/holdout_frames/h05_76.jpg",
+    "sha256": "c01440324b86f1a3046091688bff41e11bbda9fc9a0339eebbdcee28974a4950"
+  },
+  {
+    "source_id": "h05",
+    "frame_index": 191,
+    "path": "downloads/holdout_frames/h05_191.jpg",
+    "sha256": "61fb1ea9205a6283a4f9e9aadffeb1c9005fe86fe44e380b6d1447a8b9a9d2dd"
+  },
+  {
+    "source_id": "h05",
+    "frame_index": 306,
+    "path": "downloads/holdout_frames/h05_306.jpg",
+    "sha256": "b289ff978963047d47b2025b3775f0926b3912dc7c1909635e3043b93263a43a"
+  },
+  {
+    "source_id": "h06",
+    "frame_index": 55,
+    "path": "downloads/holdout_frames/h06_55.jpg",
+    "sha256": "6bda411adc3a2dd868b6461061b7f4feacb664fdd1599c015df963cd10576714"
+  },
+  {
+    "source_id": "h06",
+    "frame_index": 137,
+    "path": "downloads/holdout_frames/h06_137.jpg",
+    "sha256": "ef1914a1d735336109ceca3615e142e716793d31c4357e005d4927a868c38f6a"
+  },
+  {
+    "source_id": "h06",
+    "frame_index": 220,
+    "path": "downloads/holdout_frames/h06_220.jpg",
+    "sha256": "0d40747df2a5b6fc3933a496550fe5c1c0879d52c19fc6ea09c996f130d8c682"
+  },
+  {
+    "source_id": "h07",
+    "frame_index": 163,
+    "path": "downloads/holdout_frames/h07_163.jpg",
+    "sha256": "71786d03579aa8392959fc366dfce8ee298a89fcdfe8687b14517de23417ef8b"
+  },
+  {
+    "source_id": "h07",
+    "frame_index": 409,
+    "path": "downloads/holdout_frames/h07_409.jpg",
+    "sha256": "99b60586f13dbb9506b30f8c7f68774d59dd7a76105067461f2bba4386f73c04"
+  },
+  {
+    "source_id": "h07",
+    "frame_index": 654,
+    "path": "downloads/holdout_frames/h07_654.jpg",
+    "sha256": "ffaf80919278de7cc4699d96f959930fc0b3032cf77934ef2c46e02336926321"
+  }
+]

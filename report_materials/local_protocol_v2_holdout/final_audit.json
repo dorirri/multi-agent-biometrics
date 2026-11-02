@@ -1,0 +1,23 @@
+{
+  "original_files_checked": 257,
+  "intentionally_changed": [
+    "report_materials/STATUS.md"
+  ],
+  "previous_STATUS_saved": true,
+  "original_v2_freeze_matches": true,
+  "holdout_behavior_freeze_matches": true,
+  "completed_methods": [
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "incidents_per_method": 18,
+  "new_sources": 8,
+  "model_json_errors": 0,
+  "tests_passed": 41,
+  "no_paid_calls": true,
+  "no_training": true,
+  "report_generated_from_saved_results": true,
+  "finalized_utc": "2026-11-02T09:15:59Z"
+}

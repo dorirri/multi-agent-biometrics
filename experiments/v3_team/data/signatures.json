@@ -1,0 +1,31 @@
+{
+  "virtual_camera": [
+    "OBS Virtual Camera",
+    "ManyCam Virtual Webcam",
+    "Snap Camera",
+    "XSplit VCam",
+    "e2eSoft VCam",
+    "Virtual Camera Driver (Unity Capture)"
+  ],
+  "dual_use_camera": [
+    "DroidCam Source",
+    "Camo",
+    "EpocCam"
+  ],
+  "emulator_fingerprint": [
+    "sdk_gphone",
+    "generic_x86",
+    "Genymotion",
+    "vbox86",
+    "BlueStacks",
+    "nox/"
+  ],
+  "hooking": [
+    "frida-server",
+    "xposed-bridge",
+    "substrate"
+  ],
+  "root": [
+    "magisk"
+  ]
+}

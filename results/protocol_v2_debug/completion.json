@@ -1,0 +1,40 @@
+{
+  "completed": true,
+  "status": "completed",
+  "expected_incidents_per_method": 2,
+  "completed_incidents_per_method": {
+    "C": 2,
+    "D": 2,
+    "E": 2
+  },
+  "predictions": 6,
+  "api_calls": 14,
+  "interruption_type": null,
+  "completed_pairs": [
+    {
+      "incident_id": "7d8a43bb1f7e5b01110ff78479209dde",
+      "method": "C"
+    },
+    {
+      "incident_id": "7d8a43bb1f7e5b01110ff78479209dde",
+      "method": "D"
+    },
+    {
+      "incident_id": "7d8a43bb1f7e5b01110ff78479209dde",
+      "method": "E"
+    },
+    {
+      "incident_id": "096d1f0c885624a1891ca1d0b481f776",
+      "method": "C"
+    },
+    {
+      "incident_id": "096d1f0c885624a1891ca1d0b481f776",
+      "method": "D"
+    },
+    {
+      "incident_id": "096d1f0c885624a1891ca1d0b481f776",
+      "method": "E"
+    }
+  ],
+  "ended_utc": "2026-11-02T06:21:27Z"
+}

@@ -1,0 +1,85 @@
+{
+  "$defs": {
+    "Evidence": {
+      "additionalProperties": false,
+      "properties": {
+        "evidence_id": {
+          "title": "Evidence Id",
+          "type": "string"
+        },
+        "group": {
+          "enum": [
+            "visual",
+            "channel",
+            "history",
+            "check"
+          ],
+          "title": "Group",
+          "type": "string"
+        },
+        "provenance": {
+          "enum": [
+            "model_on_real_media",
+            "synthetic",
+            "derived"
+          ],
+          "title": "Provenance",
+          "type": "string"
+        },
+        "observed_by": {
+          "enum": [
+            "local_tool",
+            "client_claim",
+            "server_observation"
+          ],
+          "title": "Observed By",
+          "type": "string"
+        },
+        "status": {
+          "enum": [
+            "ok",
+            "missing",
+            "error"
+          ],
+          "title": "Status",
+          "type": "string"
+        },
+        "values": {
+          "additionalProperties": true,
+          "title": "Values",
+          "type": "object"
+        }
+      },
+      "required": [
+        "evidence_id",
+        "group",
+        "provenance",
+        "observed_by",
+        "status",
+        "values"
+      ],
+      "title": "Evidence",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "incident_id": {
+      "title": "Incident Id",
+      "type": "string"
+    },
+    "evidence": {
+      "items": {
+        "$ref": "#/$defs/Evidence"
+      },
+      "title": "Evidence",
+      "type": "array"
+    }
+  },
+  "required": [
+    "incident_id",
+    "evidence"
+  ],
+  "title": "AgentInput",
+  "type": "object"
+}

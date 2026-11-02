@@ -1,0 +1,16 @@
+{
+  "n": 1,
+  "unique_media_sources": 1,
+  "counts": {
+    "bona_fide": 1
+  },
+  "incident_ids": [
+    "096d1f0c885624a1891ca1d0b481f776"
+  ],
+  "sources": [
+    "d0"
+  ],
+  "stress_counts": {
+    "normal": 1
+  }
+}

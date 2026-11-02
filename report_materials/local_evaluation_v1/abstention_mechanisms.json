@@ -1,0 +1,14 @@
+{
+  "C": {
+    "recheck_protocol_stop": 5,
+    "automatic": 12,
+    "api_or_validation_error": 1
+  },
+  "D": {
+    "recheck_protocol_stop": 18
+  },
+  "E": {
+    "recheck_protocol_stop": 15,
+    "automatic": 3
+  }
+}

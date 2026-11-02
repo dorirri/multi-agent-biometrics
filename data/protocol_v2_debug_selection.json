@@ -1,0 +1,8 @@
+{
+  "split": "debug",
+  "incident_ids": [
+    "096d1f0c885624a1891ca1d0b481f776",
+    "7d8a43bb1f7e5b01110ff78479209dde"
+  ],
+  "selection_rule": "saved complete debug ID plus first lexicographic debug controlled PAD-failure ID; no evaluation answers used"
+}

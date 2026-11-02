@@ -1,0 +1,33 @@
+{
+  "n": 9,
+  "incident_ids": [
+    "25f63bf6838924354e208582d3d8c4be",
+    "353eadfe82568f91a796670756e344c0",
+    "3f5a0f297f9d9802b993c304343d8bc6",
+    "43fb0a3fec255ec735dda749d2625234",
+    "4d8816f6e1e1c86809ac8526fc6577dd",
+    "673ad645337c2b4e32bf4d928cae3d57",
+    "8b2168e1990a528d038770e7aad028b6",
+    "e0fe5c136d2fdbb45346227740f6edd3",
+    "ecd45df6722ed87a510346a914f81b2c"
+  ],
+  "counts": {
+    "presentation_attack": 3,
+    "injection_attack": 3,
+    "bona_fide": 3
+  },
+  "subtypes": {
+    "print": 1,
+    "screen_replay": 2,
+    "virtual_camera": 2,
+    "None": 3,
+    "stealth": 1
+  },
+  "stress": {
+    "untrusted_text": 1,
+    "missing_history": 2,
+    "normal": 4,
+    "pad_tool_failure": 2
+  },
+  "unique_frames": 9
+}

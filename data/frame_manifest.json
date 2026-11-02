@@ -1,0 +1,140 @@
+[
+  {
+    "source_id": "d0",
+    "frame_index": 0,
+    "path": "data\\media\\d0_0.jpg",
+    "sha256": "fe537fbf5ffb5c15f70df4c8b12f50f03000a9cd8bce283b192551de37bae3f7"
+  },
+  {
+    "source_id": "d1",
+    "frame_index": 0,
+    "path": "data\\media\\d1_0.jpg",
+    "sha256": "385c8e78be9a7a8cc7544bc8b61463111699ba126c9d6244536df7face1cb017"
+  },
+  {
+    "source_id": "d2",
+    "frame_index": 0,
+    "path": "data\\media\\d2_0.jpg",
+    "sha256": "6d4c9fd48641bb99a73c1e50d2c5df77fd07a05492d419627ebe8a99c3cf1bc2"
+  },
+  {
+    "source_id": "a00",
+    "frame_index": 0,
+    "path": "data\\media\\a00_0.jpg",
+    "sha256": "26325cd889f961c3d24a7cc108366adfe1176cc5dfc1635ccd0049950fc970b0"
+  },
+  {
+    "source_id": "a01",
+    "frame_index": 0,
+    "path": "data\\media\\a01_0.jpg",
+    "sha256": "edbbf205eacdbad41fa7f92382b1ab9eb218e23e7829d71c5ebbabfa4212183a"
+  },
+  {
+    "source_id": "a02",
+    "frame_index": 0,
+    "path": "data\\media\\a02_0.jpg",
+    "sha256": "9a486c6ad0446d44e0d96a5789560921f23ccb9a04432fdc9800239844ac4a04"
+  },
+  {
+    "source_id": "a03",
+    "frame_index": 0,
+    "path": "data\\media\\a03_0.jpg",
+    "sha256": "7a08d51c12d8ee21cfe0fd2b1bc529ae7a99efd3d8a372df2a198cf2e9b47f0f"
+  },
+  {
+    "source_id": "a04",
+    "frame_index": 0,
+    "path": "data\\media\\a04_0.jpg",
+    "sha256": "6f3064a9602abaddea5721d717e8a1351b7bf021328087e816d0c094c41b1993"
+  },
+  {
+    "source_id": "a05",
+    "frame_index": 86,
+    "path": "data\\media\\a05_0.jpg",
+    "sha256": "883e187cb3d36ae0b48685e67d2de947942cbe94f5f277c1ade8718d590cf54e"
+  },
+  {
+    "source_id": "a05",
+    "frame_index": 215,
+    "path": "data\\media\\a05_1.jpg",
+    "sha256": "4760d432d4c652f6fb93ca69eb6e7cce5b8f1c845b4cc505fc2681bc6712b294"
+  },
+  {
+    "source_id": "a05",
+    "frame_index": 344,
+    "path": "data\\media\\a05_2.jpg",
+    "sha256": "0ec3f3df54ef2f8429ec13989dc20cf080ced2a0b65a49b4ec75cba57d4ecc28"
+  },
+  {
+    "source_id": "a06",
+    "frame_index": 90,
+    "path": "data\\media\\a06_0.jpg",
+    "sha256": "ad6a5a9825f98f7e3246fe3ab60be08e60c8d2f653920cf77d03b3f2d50307ee"
+  },
+  {
+    "source_id": "a06",
+    "frame_index": 225,
+    "path": "data\\media\\a06_1.jpg",
+    "sha256": "4e910a86a5819c725a2c9ee71e8034dba80b939cf0d6f0495c1562413781bc69"
+  },
+  {
+    "source_id": "a06",
+    "frame_index": 360,
+    "path": "data\\media\\a06_2.jpg",
+    "sha256": "6b998578873ac998e64a15d91875f818602031644a23838bc1002c9539db56a9"
+  },
+  {
+    "source_id": "a07",
+    "frame_index": 93,
+    "path": "data\\media\\a07_0.jpg",
+    "sha256": "dd2a7018bf5f2f0e7ce1094740ab36e3b8b141588a1e459db7e18b2b476a1b44"
+  },
+  {
+    "source_id": "a07",
+    "frame_index": 232,
+    "path": "data\\media\\a07_1.jpg",
+    "sha256": "db30124e41c711e70598a0ccf5838dc122c53e8d4c69d3461b0a343b19c3d46a"
+  },
+  {
+    "source_id": "a07",
+    "frame_index": 372,
+    "path": "data\\media\\a07_2.jpg",
+    "sha256": "0678287e0b6ccc1798cdc67194f2f4f1cb159b3d5ceac986d516c792371a67d7"
+  },
+  {
+    "source_id": "a08",
+    "frame_index": 94,
+    "path": "data\\media\\a08_0.jpg",
+    "sha256": "babfd79db3db65f985d9eab57c9b0a6674ec057d538130ced495d784bc07f280"
+  },
+  {
+    "source_id": "a08",
+    "frame_index": 235,
+    "path": "data\\media\\a08_1.jpg",
+    "sha256": "66e3187f6828c5fa034d4a785f4cf33780bd8298722a3a4a56e896a9f6cd6e09"
+  },
+  {
+    "source_id": "a08",
+    "frame_index": 376,
+    "path": "data\\media\\a08_2.jpg",
+    "sha256": "d26b769c8688b2aeb87b6d3d1dfda70e1331db33cc5f65255ae6cd57278aafe7"
+  },
+  {
+    "source_id": "a09",
+    "frame_index": 93,
+    "path": "data\\media\\a09_0.jpg",
+    "sha256": "c18a0c8bac47cb5f7ef2fa8317c1f6c48f40fc375a604e763f081c040da21bf9"
+  },
+  {
+    "source_id": "a09",
+    "frame_index": 233,
+    "path": "data\\media\\a09_1.jpg",
+    "sha256": "8b82e9cd9979df21e23a7aa5f6f97a6974a0261c3e21d1a966071bb3784934d7"
+  },
+  {
+    "source_id": "a09",
+    "frame_index": 372,
+    "path": "data\\media\\a09_2.jpg",
+    "sha256": "600f8841cd69e36521e384644a6fdb89eec47f8786b324bbe1c31f50b6fd1c7c"
+  }
+]

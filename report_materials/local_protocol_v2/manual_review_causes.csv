@@ -1,0 +1,10 @@
+﻿method,version,cause,count,denominator
+C,v1,recheck_protocol_stop,5,18
+C,v1,automatic,12,18
+C,v1,technical_llm_error,1,18
+C,v2,automatic,18,18
+D,v1,recheck_protocol_stop,18,18
+D,v2,automatic,18,18
+E,v1,recheck_protocol_stop,15,18
+E,v1,automatic,3,18
+E,v2,automatic,18,18

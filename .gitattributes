@@ -1,0 +1,42 @@
+# The project was produced on Windows: text artifacts (data, results, reports, SVG)
+# were written with CRLF and their SHA-256 values are recorded in
+# data/protocol_v2_freeze.json, experiments/local_protocol_v2_holdout/data/holdout_freeze.json
+# and snapshots/*.json. Keep CRLF on checkout on every OS so those checks stay valid.
+# Python sources were hashed with LF and stay LF.
+*.py text eol=lf
+data/**/*.json text eol=crlf
+data/**/*.jsonl text eol=crlf
+data/local_backend_manifest.json text eol=lf
+experiments/**/*.json text eol=crlf
+experiments/**/*.jsonl text eol=crlf
+results/**/*.json text eol=crlf
+results/**/*.jsonl text eol=crlf
+results/**/*.csv text eol=crlf
+results/**/*.log text eol=crlf
+results/**/*.txt text eol=crlf
+results/**/*.xml text eol=crlf
+report_materials/**/*.json text eol=crlf
+report_materials/**/*.jsonl text eol=crlf
+report_materials/**/*.csv text eol=crlf
+report_materials/**/*.md text eol=crlf
+figures/**/*.svg text eol=crlf
+docs/protocol_v2_code.diff text eol=crlf
+requirements-lock.txt text eol=crlf
+*.png binary
+README.md text eol=crlf
+# These were written with LF on the original machine.
+report_materials/implementation.md text eol=lf
+report_materials/local_method_note.md text eol=lf
+report_materials/sources.md text eol=lf
+report_materials/local_evaluation_v1/interpretation.md text eol=lf
+report_materials/local_evaluation_v1/reviewed_cases.md text eol=lf
+report_materials/local_protocol_v2/reviewed_changes.md text eol=lf
+results/**/pytest_output.txt text eol=lf
+# v3 artifacts were written on macOS with LF and hashed with LF (experiments/v3_team/data/freeze.json).
+experiments/v3_team/** text eol=lf
+experiments/v3_team/**/*.sqlite binary
+results/v3_*/** text eol=lf
+results/v3_*/*.sqlite binary
+results/v3_*.log text eol=lf
+report_materials/v3_*/** text eol=lf
+figures/v3_*/*.svg text eol=lf

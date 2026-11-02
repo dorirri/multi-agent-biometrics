@@ -1,0 +1,34 @@
+[
+  {
+    "path": "models/MiniFASNetV2.onnx",
+    "url": "https://github.com/yakhyo/face-anti-spoofing/releases/download/weights/MiniFASNetV2.onnx",
+    "sha256": "b32929adc2d9c34b9486f8c4c7bc97c1b69bc0ea9befefc380e4faae4e463907",
+    "bytes": 1743581
+  },
+  {
+    "path": "models/deploy.prototxt",
+    "url": "https://raw.githubusercontent.com/minivision-ai/Silent-Face-Anti-Spoofing/master/resources/detection_model/deploy.prototxt",
+    "sha256": "9fe2f141b4baee039ed9442da2833e216af40a6ff3e639e7b39258812bcda808",
+    "bytes": 40787
+  },
+  {
+    "path": "models/detector.caffemodel",
+    "url": "https://raw.githubusercontent.com/minivision-ai/Silent-Face-Anti-Spoofing/master/resources/detection_model/Widerface-RetinaFace.caffemodel",
+    "sha256": "d08338a2c207df16a9c566f767fea67fb43ba6fff76ce11e938fe3fabefb9402",
+    "bytes": 1866013
+  },
+  {
+    "path": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/91cad51170dc346986eccefdc2dd33a9da36ead9/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+    "bytes": 1117320736,
+    "sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+    "download_seconds": 73.529
+  },
+  {
+    "path": "downloads/llama-b12032-bin-win-cpu-x64.zip",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-cpu-x64.zip",
+    "bytes": 24582754,
+    "sha256": "5296f5d18bb7d422c7c26f4bb9bc796d9d4f41e1312a8c296cff475bdc60d0d4",
+    "download_seconds": 1.387
+  }
+]

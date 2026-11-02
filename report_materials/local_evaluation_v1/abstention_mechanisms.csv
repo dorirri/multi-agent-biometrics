@@ -1,0 +1,7 @@
+﻿method,mechanism,count,all_incidents
+C,recheck_protocol_stop,5,18
+C,automatic,12,18
+C,api_or_validation_error,1,18
+D,recheck_protocol_stop,18,18
+E,recheck_protocol_stop,15,18
+E,automatic,3,18

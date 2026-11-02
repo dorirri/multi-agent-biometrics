@@ -1,0 +1,10 @@
+{
+  "real_final_schema_answers": 54,
+  "all_final_none": true,
+  "actual_checks": 18,
+  "successful_checks": 18,
+  "max_checks_per_method_incident": 1,
+  "max_llm_calls_per_method_incident": 3,
+  "all_54_decisions_saved": true,
+  "predicted_class_manual_review_still_permitted": true
+}

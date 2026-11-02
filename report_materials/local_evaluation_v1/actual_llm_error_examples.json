@@ -1,0 +1,126 @@
+[
+  {
+    "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+    "method": "C",
+    "ground_truth": "bona_fide",
+    "predicted_class": "manual_review",
+    "recommendation": "escalate",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "Repeated recheck request; pipeline terminated",
+    "contradictions": [],
+    "missing_data": [
+      "Repeated recheck request; pipeline terminated"
+    ]
+  },
+  {
+    "incident_id": "841166a2962420c7d0a0d77ea2c863be",
+    "method": "C",
+    "ground_truth": "presentation_attack",
+    "predicted_class": "manual_review",
+    "recommendation": "escalate",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "Repeated recheck request; pipeline terminated",
+    "contradictions": [],
+    "missing_data": [
+      "Repeated recheck request; pipeline terminated"
+    ]
+  },
+  {
+    "incident_id": "c890784c9e0844d4edee0905c9bf8d14",
+    "method": "C",
+    "ground_truth": "presentation_attack",
+    "predicted_class": "bona_fide",
+    "recommendation": "allow",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "The visual evidence shows a spoofed pad label, indicating a spoofed device. The channel evidence confirms the device is not virtual. The history evidence shows a consistent pattern of successful events. The check evidence confirms the live score is within the expected range. There are no contradictions or missing data that would suggest an attack. The evidence supports the device being genuine and the events being normal.",
+    "contradictions": [],
+    "missing_data": []
+  },
+  {
+    "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+    "method": "D",
+    "ground_truth": "bona_fide",
+    "predicted_class": "manual_review",
+    "recommendation": "escalate",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "An analyst abstained",
+    "contradictions": [],
+    "missing_data": [
+      "An analyst abstained"
+    ]
+  },
+  {
+    "incident_id": "841166a2962420c7d0a0d77ea2c863be",
+    "method": "D",
+    "ground_truth": "presentation_attack",
+    "predicted_class": "manual_review",
+    "recommendation": "escalate",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "An analyst abstained",
+    "contradictions": [],
+    "missing_data": [
+      "An analyst abstained"
+    ]
+  },
+  {
+    "incident_id": "c890784c9e0844d4edee0905c9bf8d14",
+    "method": "D",
+    "ground_truth": "presentation_attack",
+    "predicted_class": "manual_review",
+    "recommendation": "escalate",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "An analyst abstained",
+    "contradictions": [],
+    "missing_data": [
+      "An analyst abstained"
+    ]
+  },
+  {
+    "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+    "method": "E",
+    "ground_truth": "bona_fide",
+    "predicted_class": "manual_review",
+    "recommendation": "escalate",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "Repeated recheck request; pipeline terminated",
+    "contradictions": [],
+    "missing_data": [
+      "Repeated recheck request; pipeline terminated"
+    ]
+  },
+  {
+    "incident_id": "841166a2962420c7d0a0d77ea2c863be",
+    "method": "E",
+    "ground_truth": "presentation_attack",
+    "predicted_class": "manual_review",
+    "recommendation": "escalate",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "Repeated recheck request; pipeline terminated",
+    "contradictions": [],
+    "missing_data": [
+      "Repeated recheck request; pipeline terminated"
+    ]
+  },
+  {
+    "incident_id": "c890784c9e0844d4edee0905c9bf8d14",
+    "method": "E",
+    "ground_truth": "presentation_attack",
+    "predicted_class": "manual_review",
+    "recommendation": "escalate",
+    "stress": "normal",
+    "errors": 0,
+    "rationale": "Repeated recheck request; pipeline terminated",
+    "contradictions": [],
+    "missing_data": [
+      "Repeated recheck request; pipeline terminated"
+    ]
+  }
+]

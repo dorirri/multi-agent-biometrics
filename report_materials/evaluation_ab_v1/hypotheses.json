@@ -1,0 +1,7 @@
+{
+  "multiagent_better_than_single": "not_tested",
+  "verifier_improves_triage": "not_tested",
+  "rule_attack_allow_rate": 0.075,
+  "pad_attack_allow_rate": 0.45,
+  "no_statistical_significance_claim": true
+}

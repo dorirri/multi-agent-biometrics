@@ -1,0 +1,297 @@
+{
+  "old_sources_checked": 13,
+  "old_decoded_frames_checked": 23,
+  "new_sources": 8,
+  "exact_source_hash_overlap": [],
+  "new_source_hashes_unique": true,
+  "frame_phash_audit": [
+    {
+      "source_id": "h00",
+      "frame_index": 0,
+      "nearest_old_source": "a07",
+      "phash_distance_old": 22,
+      "phash64": "ecb4d35b885d2c2c",
+      "decoded_pixel_sha256": "875173d2e5d1856c34c2a68bef2e72c53f07055e09e65d2f7a2deb4578b61142"
+    },
+    {
+      "source_id": "h01",
+      "frame_index": 0,
+      "nearest_old_source": "a08",
+      "phash_distance_old": 22,
+      "phash64": "c9b40bf6831eac99",
+      "decoded_pixel_sha256": "79130c8c1843dcee5a29792ff444cef5e748cf3a851d9a27a5c6a76a201676fc"
+    },
+    {
+      "source_id": "h02",
+      "frame_index": 0,
+      "nearest_old_source": "a05",
+      "phash_distance_old": 24,
+      "phash64": "e94ea6047b817c6b",
+      "decoded_pixel_sha256": "994b16fe207e742f509e6ebc5786c8135f3bcde01154679d3b0ec0c8a048e003"
+    },
+    {
+      "source_id": "h03",
+      "frame_index": 0,
+      "nearest_old_source": "a01",
+      "phash_distance_old": 26,
+      "phash64": "bc707b06f2c318d9",
+      "decoded_pixel_sha256": "1fde0dd65460ac098c1993bdbbffb222890832f1dfa026272f65038472276346"
+    },
+    {
+      "source_id": "h04",
+      "frame_index": 27,
+      "nearest_old_source": "a07",
+      "phash_distance_old": 20,
+      "phash64": "adaad69b492c3643",
+      "decoded_pixel_sha256": "2265bf69b4a206f106b032e38efaf049f0b68b19a31569f9be753fce6fd31708"
+    },
+    {
+      "source_id": "h04",
+      "frame_index": 68,
+      "nearest_old_source": "a05",
+      "phash_distance_old": 20,
+      "phash64": "bac585d09a1b6967",
+      "decoded_pixel_sha256": "05d75f5dd5b9f156ce00974e0d074a683d42d3aaab9bf60b9531e2e9ae27cbba"
+    },
+    {
+      "source_id": "h04",
+      "frame_index": 108,
+      "nearest_old_source": "a09",
+      "phash_distance_old": 22,
+      "phash64": "8ac8acebc195de86",
+      "decoded_pixel_sha256": "db98502e0e62ed0e42fb589e721ade5cd2fa009ef50801450e9c8e20b799647a"
+    },
+    {
+      "source_id": "h05",
+      "frame_index": 76,
+      "nearest_old_source": "a06",
+      "phash_distance_old": 22,
+      "phash64": "ee94aba73ce8e084",
+      "decoded_pixel_sha256": "3abdeaffde6fe8bc6679af6c479c2c7b580eb0aedc638cb1f6d1554968f37f39"
+    },
+    {
+      "source_id": "h05",
+      "frame_index": 191,
+      "nearest_old_source": "a01",
+      "phash_distance_old": 26,
+      "phash64": "ea9085ad879ed698",
+      "decoded_pixel_sha256": "77acde4ea27e0dae1a45aba4d82c37c347ee5f392b1db9025bd9cc6073ad6794"
+    },
+    {
+      "source_id": "h05",
+      "frame_index": 306,
+      "nearest_old_source": "d2",
+      "phash_distance_old": 22,
+      "phash64": "ad8dd496c294cb93",
+      "decoded_pixel_sha256": "5a501c778f009192a6db9d233242831480372744a262ed893d416e18ec393a5b"
+    },
+    {
+      "source_id": "h06",
+      "frame_index": 55,
+      "nearest_old_source": "a01",
+      "phash_distance_old": 20,
+      "phash64": "eab855f59c023f42",
+      "decoded_pixel_sha256": "2301f12542bb5c5f5d10107440b22db51bae46124df1d496c1e2cd96061496b8"
+    },
+    {
+      "source_id": "h06",
+      "frame_index": 137,
+      "nearest_old_source": "a07",
+      "phash_distance_old": 22,
+      "phash64": "ede916c6991a6ae0",
+      "decoded_pixel_sha256": "a608b7c6192a5d1b1a21a8e3eff428ef915edc3888e628896533cee6656e2990"
+    },
+    {
+      "source_id": "h06",
+      "frame_index": 220,
+      "nearest_old_source": "a05",
+      "phash_distance_old": 28,
+      "phash64": "ece91487b9185ee1",
+      "decoded_pixel_sha256": "7833b9958a5bc94f96c1e0f7d94f0fb0957675939a6b4d6b22ef2fe2aa08e0e5"
+    },
+    {
+      "source_id": "h07",
+      "frame_index": 163,
+      "nearest_old_source": "a01",
+      "phash_distance_old": 24,
+      "phash64": "dce8218ff4495ad2",
+      "decoded_pixel_sha256": "5ee221ac2b9814252f15a793cab4164930bbd11b7c0411e2fa27fb0db002611d"
+    },
+    {
+      "source_id": "h07",
+      "frame_index": 409,
+      "nearest_old_source": "a01",
+      "phash_distance_old": 24,
+      "phash64": "cce1a1ce523c3cb3",
+      "decoded_pixel_sha256": "11948c5a66031d0f9667cd6e08f43b9840053eaa5c65979899315634cbec3f4d"
+    },
+    {
+      "source_id": "h07",
+      "frame_index": 654,
+      "nearest_old_source": "a08",
+      "phash_distance_old": 22,
+      "phash64": "dce12a4ef11d4e61",
+      "decoded_pixel_sha256": "6c41f460f9290f07ad09b01676abbfc835da96abe066963f16d214508df52efd"
+    }
+  ],
+  "potential_near_duplicates_threshold_le_8": [],
+  "identity_independence_not_proven": true,
+  "limitations": "64-bit whole-frame pHash is not identity matching; changes in crop/background can evade it. Visual inspection required before acceptance.",
+  "visual_review": {
+    "completed_before_generation_and_PAD": true,
+    "contact_sheet_path_local_only": "downloads/holdout_contact_sheet.jpg",
+    "finding": "No visible copies or transformations of previous photographs/frames among selected files. Different scenes and physical attacks; no claim about identity independence.",
+    "accepted_source_ids": [
+      "h00",
+      "h01",
+      "h02",
+      "h03",
+      "h04",
+      "h05",
+      "h06",
+      "h07"
+    ]
+  },
+  "between_new_sources_phash": [
+    {
+      "left": "h00",
+      "right": "h01",
+      "min_phash_distance": 24
+    },
+    {
+      "left": "h00",
+      "right": "h02",
+      "min_phash_distance": 36
+    },
+    {
+      "left": "h00",
+      "right": "h03",
+      "min_phash_distance": 32
+    },
+    {
+      "left": "h00",
+      "right": "h04",
+      "min_phash_distance": 26
+    },
+    {
+      "left": "h00",
+      "right": "h05",
+      "min_phash_distance": 28
+    },
+    {
+      "left": "h00",
+      "right": "h06",
+      "min_phash_distance": 28
+    },
+    {
+      "left": "h00",
+      "right": "h07",
+      "min_phash_distance": 28
+    },
+    {
+      "left": "h01",
+      "right": "h02",
+      "min_phash_distance": 36
+    },
+    {
+      "left": "h01",
+      "right": "h03",
+      "min_phash_distance": 30
+    },
+    {
+      "left": "h01",
+      "right": "h04",
+      "min_phash_distance": 32
+    },
+    {
+      "left": "h01",
+      "right": "h05",
+      "min_phash_distance": 22
+    },
+    {
+      "left": "h01",
+      "right": "h06",
+      "min_phash_distance": 26
+    },
+    {
+      "left": "h01",
+      "right": "h07",
+      "min_phash_distance": 24
+    },
+    {
+      "left": "h02",
+      "right": "h03",
+      "min_phash_distance": 28
+    },
+    {
+      "left": "h02",
+      "right": "h04",
+      "min_phash_distance": 28
+    },
+    {
+      "left": "h02",
+      "right": "h05",
+      "min_phash_distance": 32
+    },
+    {
+      "left": "h02",
+      "right": "h06",
+      "min_phash_distance": 26
+    },
+    {
+      "left": "h02",
+      "right": "h07",
+      "min_phash_distance": 28
+    },
+    {
+      "left": "h03",
+      "right": "h04",
+      "min_phash_distance": 36
+    },
+    {
+      "left": "h03",
+      "right": "h05",
+      "min_phash_distance": 32
+    },
+    {
+      "left": "h03",
+      "right": "h06",
+      "min_phash_distance": 30
+    },
+    {
+      "left": "h03",
+      "right": "h07",
+      "min_phash_distance": 22
+    },
+    {
+      "left": "h04",
+      "right": "h05",
+      "min_phash_distance": 22
+    },
+    {
+      "left": "h04",
+      "right": "h06",
+      "min_phash_distance": 24
+    },
+    {
+      "left": "h04",
+      "right": "h07",
+      "min_phash_distance": 26
+    },
+    {
+      "left": "h05",
+      "right": "h06",
+      "min_phash_distance": 26
+    },
+    {
+      "left": "h05",
+      "right": "h07",
+      "min_phash_distance": 28
+    },
+    {
+      "left": "h06",
+      "right": "h07",
+      "min_phash_distance": 18
+    }
+  ]
+}

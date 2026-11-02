@@ -1,0 +1,234 @@
+{
+  "completed": true,
+  "status": "completed",
+  "expected_incidents_per_method": 18,
+  "completed_incidents_per_method": {
+    "C": 18,
+    "D": 18,
+    "E": 18
+  },
+  "predictions": 54,
+  "api_calls": 126,
+  "interruption_type": null,
+  "inflight_pair": null,
+  "inflight_usage_unknown": false,
+  "completed_pairs": [
+    {
+      "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+      "method": "C"
+    },
+    {
+      "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+      "method": "D"
+    },
+    {
+      "incident_id": "466cfecad11e42016a4acbf48cafc3dd",
+      "method": "E"
+    },
+    {
+      "incident_id": "841166a2962420c7d0a0d77ea2c863be",
+      "method": "C"
+    },
+    {
+      "incident_id": "841166a2962420c7d0a0d77ea2c863be",
+      "method": "D"
+    },
+    {
+      "incident_id": "841166a2962420c7d0a0d77ea2c863be",
+      "method": "E"
+    },
+    {
+      "incident_id": "c890784c9e0844d4edee0905c9bf8d14",
+      "method": "C"
+    },
+    {
+      "incident_id": "c890784c9e0844d4edee0905c9bf8d14",
+      "method": "D"
+    },
+    {
+      "incident_id": "c890784c9e0844d4edee0905c9bf8d14",
+      "method": "E"
+    },
+    {
+      "incident_id": "b90ce75e0c1acf034206f449b7145254",
+      "method": "C"
+    },
+    {
+      "incident_id": "b90ce75e0c1acf034206f449b7145254",
+      "method": "D"
+    },
+    {
+      "incident_id": "b90ce75e0c1acf034206f449b7145254",
+      "method": "E"
+    },
+    {
+      "incident_id": "aafab0b56ddcd5b65521b24b20a988a8",
+      "method": "C"
+    },
+    {
+      "incident_id": "aafab0b56ddcd5b65521b24b20a988a8",
+      "method": "D"
+    },
+    {
+      "incident_id": "aafab0b56ddcd5b65521b24b20a988a8",
+      "method": "E"
+    },
+    {
+      "incident_id": "71c6d2f1c67a0faa2fbca11f157b6636",
+      "method": "C"
+    },
+    {
+      "incident_id": "71c6d2f1c67a0faa2fbca11f157b6636",
+      "method": "D"
+    },
+    {
+      "incident_id": "71c6d2f1c67a0faa2fbca11f157b6636",
+      "method": "E"
+    },
+    {
+      "incident_id": "908ed4ffed802aea883bf9eca2ff4fe1",
+      "method": "C"
+    },
+    {
+      "incident_id": "908ed4ffed802aea883bf9eca2ff4fe1",
+      "method": "D"
+    },
+    {
+      "incident_id": "908ed4ffed802aea883bf9eca2ff4fe1",
+      "method": "E"
+    },
+    {
+      "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+      "method": "C"
+    },
+    {
+      "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+      "method": "D"
+    },
+    {
+      "incident_id": "3b42cc573a86b3bfbcf04709932e9a32",
+      "method": "E"
+    },
+    {
+      "incident_id": "dc2e80eed9042cad04f5901bdfcc274b",
+      "method": "C"
+    },
+    {
+      "incident_id": "dc2e80eed9042cad04f5901bdfcc274b",
+      "method": "D"
+    },
+    {
+      "incident_id": "dc2e80eed9042cad04f5901bdfcc274b",
+      "method": "E"
+    },
+    {
+      "incident_id": "33f5f7116849d1844af0e2912f529cc2",
+      "method": "C"
+    },
+    {
+      "incident_id": "33f5f7116849d1844af0e2912f529cc2",
+      "method": "D"
+    },
+    {
+      "incident_id": "33f5f7116849d1844af0e2912f529cc2",
+      "method": "E"
+    },
+    {
+      "incident_id": "de993f2775ec7d47f9a22db866a57418",
+      "method": "C"
+    },
+    {
+      "incident_id": "de993f2775ec7d47f9a22db866a57418",
+      "method": "D"
+    },
+    {
+      "incident_id": "de993f2775ec7d47f9a22db866a57418",
+      "method": "E"
+    },
+    {
+      "incident_id": "2690a6a9ff78485a4b172f93adbdd67d",
+      "method": "C"
+    },
+    {
+      "incident_id": "2690a6a9ff78485a4b172f93adbdd67d",
+      "method": "D"
+    },
+    {
+      "incident_id": "2690a6a9ff78485a4b172f93adbdd67d",
+      "method": "E"
+    },
+    {
+      "incident_id": "1e8a13a17b9c8c512fef8f568f59d6e0",
+      "method": "C"
+    },
+    {
+      "incident_id": "1e8a13a17b9c8c512fef8f568f59d6e0",
+      "method": "D"
+    },
+    {
+      "incident_id": "1e8a13a17b9c8c512fef8f568f59d6e0",
+      "method": "E"
+    },
+    {
+      "incident_id": "7f14fec3d0abaedd770bf174450c9622",
+      "method": "C"
+    },
+    {
+      "incident_id": "7f14fec3d0abaedd770bf174450c9622",
+      "method": "D"
+    },
+    {
+      "incident_id": "7f14fec3d0abaedd770bf174450c9622",
+      "method": "E"
+    },
+    {
+      "incident_id": "16fe171467f0ea5e4b19a1a421c3b564",
+      "method": "C"
+    },
+    {
+      "incident_id": "16fe171467f0ea5e4b19a1a421c3b564",
+      "method": "D"
+    },
+    {
+      "incident_id": "16fe171467f0ea5e4b19a1a421c3b564",
+      "method": "E"
+    },
+    {
+      "incident_id": "89f52cc61dc9af043f0c1492920c262c",
+      "method": "C"
+    },
+    {
+      "incident_id": "89f52cc61dc9af043f0c1492920c262c",
+      "method": "D"
+    },
+    {
+      "incident_id": "89f52cc61dc9af043f0c1492920c262c",
+      "method": "E"
+    },
+    {
+      "incident_id": "a211407ded585a12de5c1bd082991cf6",
+      "method": "C"
+    },
+    {
+      "incident_id": "a211407ded585a12de5c1bd082991cf6",
+      "method": "D"
+    },
+    {
+      "incident_id": "a211407ded585a12de5c1bd082991cf6",
+      "method": "E"
+    },
+    {
+      "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+      "method": "C"
+    },
+    {
+      "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+      "method": "D"
+    },
+    {
+      "incident_id": "9a6047b9f9da467d88d62d732a0e0bc8",
+      "method": "E"
+    }
+  ],
+  "ended_utc": "2026-11-02T06:43:01Z"
+}

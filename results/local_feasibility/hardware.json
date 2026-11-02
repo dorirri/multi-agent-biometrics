@@ -1,0 +1,26 @@
+{
+  "ram_total_gib": 31.55300521850586,
+  "ram_available_gib": 13.78961181640625,
+  "cpu_threads": 12,
+  "cpu": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "disk_free_gib": 332.93999099731445,
+  "servers": {
+    "11434": {
+      "available": false,
+      "error_type": "URLError"
+    },
+    "1234": {
+      "available": false,
+      "error_type": "URLError"
+    },
+    "8080": {
+      "available": false,
+      "error_type": "URLError"
+    }
+  },
+  "model_files": [],
+  "cpu_model": "13th Gen Intel Core i5-13420H",
+  "gpu_driver": "Intel UHD Graphics",
+  "dedicated_vram_gib": null,
+  "gpu_note": "Registry identifies integrated graphics; dedicated VRAM not verified; WMI access denied"
+}

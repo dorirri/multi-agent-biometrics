@@ -1,0 +1,22 @@
+{
+  "runtime": "llama.cpp",
+  "release": "b12032",
+  "version": "0.8.0-dev",
+  "commit": "dde879bc4",
+  "cpu_threads": 6,
+  "batch_threads": 6,
+  "gpu_layers": 0,
+  "context_tokens": 8192,
+  "parallel_slots": 1,
+  "seed": 8217,
+  "host": "127.0.0.1",
+  "port": 8080,
+  "alias": "qwen2.5-1.5b-instruct-q4_k_m",
+  "model_path": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "temperature_per_request": 0,
+  "max_tokens_per_request": 600,
+  "timeout_seconds": 40,
+  "cost_api_usd": 0,
+  "prefix_cache": "runtime default; fixed sequential method order",
+  "server_log_directory": "results/local_feasibility"
+}
